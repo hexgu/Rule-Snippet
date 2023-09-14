@@ -1,18 +1,27 @@
 DOMAIN,orcl2-kr.ddns.edison.network
 
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN,cdn-ws.content.steamchina.com
+DOMAIN,dl.delivery.mp.microsoft.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
+DOMAIN,trts.baishancdnx.cn
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
 
 DOMAIN-SUFFIX,steampipe.akamaized.net
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
-DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,cdn.ubionline.com.cn
-DOMAIN-SUFFIX,xboxlive.cn
-DOMAIN,dl.delivery.mp.microsoft.com
-DOMAIN,tlu.dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,download.prss.microsoft.com
 DOMAIN,msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
@@ -31,7 +40,6 @@ DOMAIN-SUFFIX,gundamevolution.jp
 DOMAIN-SUFFIX,gundamevogame.com
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,file.chobit.cc
-DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,download.epicgames.com
 DOMAIN,download2.epicgames.com
 DOMAIN,download3.epicgames.com
