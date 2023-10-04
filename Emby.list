@@ -163,6 +163,7 @@ DOMAIN,direct.nebula-emby.com
 
 # > peach
 DOMAIN-SUFFIX,embymv.tk
+DOMAIN,peach.hexg.dev
 
 # > Temby
 DOMAIN,temby.285286.xyz
