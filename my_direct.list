@@ -9,3 +9,5 @@ PROCESS-NAME,AdGuardHome
 PROCESS-NAME,nmap
 
 DOMAIN-SUFFIX,gov.cn
+
+DOMAIN-SUFFIX,edu.cn
