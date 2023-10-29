@@ -10,4 +10,17 @@ PROCESS-NAME,nmap
 
 DOMAIN-SUFFIX,gov.cn
 
+#OCS
+DOMAIN-SUFFIX,zhihuishu.com
+DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,org.cn
+DOMAIN-SUFFIX,xueyinonline.com
+DOMAIN-SUFFIX,hnsyu.net
+DOMAIN-SUFFIX,qutjxjy.cn
+DOMAIN-SUFFIX,ynny.cn
+DOMAIN-SUFFIX,icve.com.cn
+DOMAIN-SUFFIX,course.icve.com.cn
+DOMAIN-SUFFIX,courshare.cn
+DOMAIN-SUFFIX,zjy2.icve.com.cn
+DOMAIN-SUFFIX,zyk.icve.com.cn
