@@ -1,5 +1,8 @@
 DOMAIN-SUFFIX,similarweb.com
 
+#openai
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
 DOMAIN-SUFFIX,mikuclub.xyz
 DOMAIN-SUFFIX,mikuclub.cn
