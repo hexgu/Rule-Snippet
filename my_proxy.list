@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,similarweb.com
 
+DOMAIN-SUFFIX,copilot.microsoft.com
+
 #openai
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
