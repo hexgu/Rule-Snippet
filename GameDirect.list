@@ -1,56 +1,446 @@
-DOMAIN,steamstatic.com.8686c.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,blzddist1-a.akamaihd.net
-DOMAIN,blzddistkr1-a.akamaihd.net
-DOMAIN,steampipe-kr.akamaized.net
-DOMAIN,epicgames-download1.akamaized.net
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN,steampipe.akamaized.net
-DOMAIN,steampipe-partner.akamaized.net
-DOMAIN,trts.baishancdnx.cn
-DOMAIN,bandainamco-ol.jp
-DOMAIN,bandainamcoid.com
-DOMAIN,blizzard.com
-DOMAIN,flg-main.aws.blue-protocol.com
-DOMAIN,blue-protocol.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,file.chobit.cc
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,blizzard.gcdn.cloudn.co.kr
-DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
-DOMAIN,pdl.wow.battlenet.com.cn
-DOMAIN,dlsite.com
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,orcl2-kr.ddns.edison.network
-DOMAIN,download3.epicgames.com
-DOMAIN,download2.epicgames.com
-DOMAIN,download.epicgames.com
-DOMAIN,download4.epicgames.com
-DOMAIN,fastly-download.epicgames.com
-DOMAIN,gog-cdn-lumen.secure2.footprint.net
-DOMAIN,gundamevogame.com
-DOMAIN,gundamevolution.jp
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,tlu.dl.delivery.mp.microsoft.com
-DOMAIN,msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
-DOMAIN,download.prss.microsoft.com
-DOMAIN,dl.delivery.mp.microsoft.com
-DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN,riotcdn.net
-DOMAIN,cdn-qc.content.steamchina.com
-DOMAIN,cdn-ws.content.steamchina.com
-DOMAIN,steamchina.com
-DOMAIN,cdn-ali.content.steamchina.com
-DOMAIN,steamcontent.com
-DOMAIN,cm.steampowered.com
-DOMAIN,steamserver.net
-DOMAIN,steamusercontent.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,dota2.wmsj.cn
-DOMAIN,csgo.wmsj.cn
-DOMAIN,wmsjsteam.com
-DOMAIN,assets2.xboxlive.cn
-DOMAIN,xboxlive.com
-DOMAIN,assets1.xboxlive.cn
+1.194.249.220 dl.steam.clngaa.com
+140.249.90.177 st.dl.eccdnx.com
+140.249.90.177 st.dl.bscstorage.net
+140.249.90.177 trts.baishancdnx.cn
+1.197.93.30 cdn-ali.content.steamchina.com
+1.197.93.30 xz.pphimalayanrt.com
+1.197.93.30 lv.queniujq.cn
+1.197.93.30 alibaba.cdn.steampipe.steamcontent.com
+183.131.119.170 cdn-ws.content.steamchina.com
+112.25.105.43 cdn-qc.content.steamchina.com
+162.254.195.12 cache1-lax1.steamcontent.com
+162.254.195.12 cache2-lax1.steamcontent.com
+162.254.195.12 cache3-lax1.steamcontent.com
+162.254.195.12 cache4-lax1.steamcontent.com
+162.254.195.12 cache5-lax1.steamcontent.com
+162.254.195.12 cache6-lax1.steamcontent.com
+162.254.195.12 cache7-lax1.steamcontent.com
+162.254.195.12 cache8-lax1.steamcontent.com
+162.254.195.12 cache9-lax1.steamcontent.com
+162.254.195.12 cache10-lax1.steamcontent.com
+162.254.195.12 cache11-lax1.steamcontent.com
+162.254.195.12 cache12-lax1.steamcontent.com
+162.254.195.12 cache13-lax1.steamcontent.com
+162.254.195.12 cache14-lax1.steamcontent.com
+162.254.195.12 cache15-lax1.steamcontent.com
+162.254.195.12 cache16-lax1.steamcontent.com
+162.254.195.12 cache17-lax1.steamcontent.com
+162.254.195.12 cache18-lax1.steamcontent.com
+162.254.195.12 cache19-lax1.steamcontent.com
+162.254.195.12 cache20-lax1.steamcontent.com
+162.254.195.12 cache21-lax1.steamcontent.com
+162.254.195.12 cache1-iad1.steamcontent.com
+162.254.195.12 cache2-iad1.steamcontent.com
+162.254.195.12 cache3-iad1.steamcontent.com
+162.254.195.12 cache4-iad1.steamcontent.com
+162.254.195.12 cache5-iad1.steamcontent.com
+162.254.195.12 cache6-iad1.steamcontent.com
+162.254.195.12 cache7-iad1.steamcontent.com
+162.254.195.12 cache8-iad1.steamcontent.com
+162.254.195.12 cache9-iad1.steamcontent.com
+162.254.195.12 cache10-iad1.steamcontent.com
+162.254.195.12 cache11-iad1.steamcontent.com
+162.254.195.12 cache12-iad1.steamcontent.com
+162.254.195.12 cache13-iad1.steamcontent.com
+162.254.195.12 cache14-iad1.steamcontent.com
+162.254.195.12 cache15-iad1.steamcontent.com
+162.254.195.12 cache16-iad1.steamcontent.com
+162.254.195.12 cache17-iad1.steamcontent.com
+162.254.195.12 cache18-iad1.steamcontent.com
+162.254.195.12 cache19-iad1.steamcontent.com
+162.254.195.12 cache20-iad1.steamcontent.com
+162.254.195.12 cache21-iad1.steamcontent.com
+162.254.195.12 cache22-iad1.steamcontent.com
+162.254.195.12 cache23-iad1.steamcontent.com
+162.254.195.12 cache24-iad1.steamcontent.com
+162.254.195.12 cache25-iad1.steamcontent.com
+162.254.195.12 cache26-iad1.steamcontent.com
+162.254.195.12 cache27-iad1.steamcontent.com
+162.254.195.12 cache28-iad1.steamcontent.com
+162.254.195.12 cache1-yvr-shaw.steamcontent.com
+162.254.195.12 cache1-fra1.steamcontent.com
+162.254.195.12 cache2-fra1.steamcontent.com
+162.254.195.12 cache3-fra1.steamcontent.com
+162.254.195.12 cache4-fra1.steamcontent.com
+162.254.195.12 cache5-fra1.steamcontent.com
+162.254.195.12 cache6-fra1.steamcontent.com
+162.254.195.12 cache7-fra1.steamcontent.com
+162.254.195.12 cache9-fra1.steamcontent.com
+162.254.195.12 cache10-fra1.steamcontent.com
+162.254.195.12 cache11-fra1.steamcontent.com
+162.254.195.12 cache13-fra1.steamcontent.com
+162.254.195.12 cache14-fra1.steamcontent.com
+162.254.195.12 cache15-fra1.steamcontent.com
+162.254.195.12 cache16-fra1.steamcontent.com
+162.254.195.12 cache21-fra1.steamcontent.com
+162.254.195.12 cache22-fra1.steamcontent.com
+162.254.195.12 cache23-fra1.steamcontent.com
+162.254.195.12 cache24-fra1.steamcontent.com
+162.254.195.12 cache25-fra1.steamcontent.com
+162.254.195.12 cache26-fra1.steamcontent.com
+162.254.195.12 cache27-fra1.steamcontent.com
+162.254.195.12 cache28-fra1.steamcontent.com
+162.254.195.12 cache29-fra1.steamcontent.com
+162.254.195.12 cache30-fra1.steamcontent.com
+162.254.195.12 cache31-fra1.steamcontent.com
+162.254.195.12 cache32-fra1.steamcontent.com
+162.254.195.12 cache33-fra1.steamcontent.com
+162.254.195.12 cache34-fra1.steamcontent.com
+162.254.195.12 cache35-fra1.steamcontent.com
+162.254.195.12 cache36-fra1.steamcontent.com
+162.254.195.12 cache37-fra1.steamcontent.com
+162.254.195.12 cache38-fra1.steamcontent.com
+162.254.195.12 cache39-fra1.steamcontent.com
+162.254.195.12 cache40-fra1.steamcontent.com
+162.254.195.12 cache41-fra1.steamcontent.com
+162.254.195.12 cache42-fra1.steamcontent.com
+162.254.195.12 cache43-fra1.steamcontent.com
+162.254.195.12 cache44-fra1.steamcontent.com
+162.254.195.12 cache45-fra1.steamcontent.com
+162.254.195.12 cache46-fra1.steamcontent.com
+162.254.195.12 cache47-fra1.steamcontent.com
+162.254.195.12 cache48-fra1.steamcontent.com
+162.254.195.12 cache49-fra1.steamcontent.com
+162.254.195.12 cache50-fra1.steamcontent.com
+162.254.195.12 cache51-fra1.steamcontent.com
+162.254.195.12 cache52-fra1.steamcontent.com
+162.254.195.12 cache53-fra1.steamcontent.com
+162.254.195.12 cache54-fra1.steamcontent.com
+162.254.195.12 cache55-fra1.steamcontent.com
+162.254.195.12 cache56-fra1.steamcontent.com
+162.254.195.12 cache57-fra1.steamcontent.com
+162.254.195.12 cache58-fra1.steamcontent.com
+162.254.195.12 cache59-fra1.steamcontent.com
+162.254.195.12 cache61-fra1.steamcontent.com
+162.254.195.12 cache62-fra1.steamcontent.com
+162.254.195.12 cache63-fra1.steamcontent.com
+162.254.195.12 cache64-fra1.steamcontent.com
+162.254.195.12 cache65-fra1.steamcontent.com
+162.254.195.12 cache66-fra1.steamcontent.com
+162.254.195.12 cache67-fra1.steamcontent.com
+162.254.195.12 cache68-fra1.steamcontent.com
+162.254.195.12 cache69-fra1.steamcontent.com
+162.254.195.12 cache1-atl1.steamcontent.com
+162.254.195.12 cache2-atl1.steamcontent.com
+162.254.195.12 cache3-atl1.steamcontent.com
+162.254.195.12 cache4-atl1.steamcontent.com
+162.254.195.12 cache6-atl1.steamcontent.com
+162.254.195.12 cache7-atl1.steamcontent.com
+162.254.195.12 cache8-atl1.steamcontent.com
+162.254.195.12 cache9-atl1.steamcontent.com
+162.254.195.12 cache10-atl1.steamcontent.com
+162.254.195.12 cache11-atl1.steamcontent.com
+162.254.195.12 cache1-sto1.steamcontent.com
+162.254.195.12 cache2-sto1.steamcontent.com
+162.254.195.12 cache3-sto1.steamcontent.com
+162.254.195.12 cache4-sto1.steamcontent.com
+162.254.195.12 cache5-sto1.steamcontent.com
+162.254.195.12 cache6-sto1.steamcontent.com
+162.254.195.12 cache7-sto1.steamcontent.com
+162.254.195.12 cache8-sto1.steamcontent.com
+162.254.195.12 cache9-sto1.steamcontent.com
+162.254.195.12 cache10-sto1.steamcontent.com
+162.254.195.12 cache1-hkg1.steamcontent.com
+162.254.195.12 cache2-hkg1.steamcontent.com
+162.254.195.12 cache3-hkg1.steamcontent.com
+162.254.195.12 cache4-hkg1.steamcontent.com
+162.254.195.12 cache5-hkg1.steamcontent.com
+162.254.195.12 cache6-hkg1.steamcontent.com
+162.254.195.12 cache1-gru1.steamcontent.com
+162.254.195.12 cache2-gru1.steamcontent.com
+162.254.195.12 cache3-gru1.steamcontent.com
+162.254.195.12 cache4-gru1.steamcontent.com
+162.254.195.12 cache6-gru1.steamcontent.com
+162.254.195.12 cache7-gru1.steamcontent.com
+162.254.195.12 cache8-gru1.steamcontent.com
+162.254.195.12 cache1-hrk-retn.steamcontent.com
+162.254.195.12 cache2-hrk-retn.steamcontent.com
+162.254.195.12 cache1-ord1.steamcontent.com
+162.254.195.12 cache2-ord1.steamcontent.com
+162.254.195.12 cache3-ord1.steamcontent.com
+162.254.195.12 cache4-ord1.steamcontent.com
+162.254.195.12 cache5-ord1.steamcontent.com
+162.254.195.12 cache6-ord1.steamcontent.com
+162.254.195.12 cache8-ord1.steamcontent.com
+162.254.195.12 cache9-ord1.steamcontent.com
+162.254.195.12 cache10-ord1.steamcontent.com
+162.254.195.12 cache11-ord1.steamcontent.com
+162.254.195.12 cache12-ord1.steamcontent.com
+162.254.195.12 cache13-ord1.steamcontent.com
+162.254.195.12 cache14-ord1.steamcontent.com
+162.254.195.12 cache15-ord1.steamcontent.com
+162.254.195.12 cache16-ord1.steamcontent.com
+162.254.195.12 cache17-ord1.steamcontent.com
+162.254.195.12 cache18-ord1.steamcontent.com
+162.254.195.12 cache19-ord1.steamcontent.com
+162.254.195.12 cache20-ord1.steamcontent.com
+162.254.195.12 cache1-man1.steamcontent.com
+162.254.195.12 cache2-man1.steamcontent.com
+162.254.195.12 cache1-sea1.steamcontent.com
+162.254.195.12 cache2-sea1.steamcontent.com
+162.254.195.12 cache3-sea1.steamcontent.com
+162.254.195.12 cache4-sea1.steamcontent.com
+162.254.195.12 cache5-sea1.steamcontent.com
+162.254.195.12 cache6-sea1.steamcontent.com
+162.254.195.12 cache8-sea1.steamcontent.com
+162.254.195.12 cache10-sea1.steamcontent.com
+162.254.195.12 cache11-sea1.steamcontent.com
+162.254.195.12 cache12-sea1.steamcontent.com
+162.254.195.12 cache1-yyz-bell.steamcontent.com
+162.254.195.12 cache2-yyz-bell.steamcontent.com
+162.254.195.12 cache1-ywg-shaw.steamcontent.com
+162.254.195.12 cache1-lhr1.steamcontent.com
+162.254.195.12 cache2-lhr1.steamcontent.com
+162.254.195.12 cache3-lhr1.steamcontent.com
+162.254.195.12 cache4-lhr1.steamcontent.com
+162.254.195.12 cache5-lhr1.steamcontent.com
+162.254.195.12 cache6-lhr1.steamcontent.com
+162.254.195.12 cache8-lhr1.steamcontent.com
+162.254.195.12 cache10-lhr1.steamcontent.com
+162.254.195.12 cache11-lhr1.steamcontent.com
+162.254.195.12 cache12-lhr1.steamcontent.com
+162.254.195.12 cache13-lhr1.steamcontent.com
+162.254.195.12 cache14-lhr1.steamcontent.com
+162.254.195.12 cache15-lhr1.steamcontent.com
+162.254.195.12 cache16-lhr1.steamcontent.com
+162.254.195.12 cache19-lhr1.steamcontent.com
+162.254.195.12 cache20-lhr1.steamcontent.com
+162.254.195.12 cache21-lhr1.steamcontent.com
+162.254.195.12 cache22-lhr1.steamcontent.com
+162.254.195.12 cache23-lhr1.steamcontent.com
+162.254.195.12 cache24-lhr1.steamcontent.com
+162.254.195.12 cache25-lhr1.steamcontent.com
+162.254.195.12 cache26-lhr1.steamcontent.com
+162.254.195.12 cache27-lhr1.steamcontent.com
+162.254.195.12 cache28-lhr1.steamcontent.com
+162.254.195.12 cache29-lhr1.steamcontent.com
+162.254.195.12 cache30-lhr1.steamcontent.com
+162.254.195.12 cache31-lhr1.steamcontent.com
+162.254.195.12 cache32-lhr1.steamcontent.com
+162.254.195.12 cache33-lhr1.steamcontent.com
+162.254.195.12 cache34-lhr1.steamcontent.com
+162.254.195.12 cache35-lhr1.steamcontent.com
+162.254.195.12 cache1-seo-hwng.steamcontent.com
+162.254.195.12 cache2-seo-hwng.steamcontent.com
+162.254.195.12 cache3-seo-hwng.steamcontent.com
+162.254.195.12 cache4-seo-hwng.steamcontent.com
+162.254.195.12 cache5-seo-hwng.steamcontent.com
+162.254.195.12 cache6-seo-hwng.steamcontent.com
+162.254.195.12 cache1-tyo1.steamcontent.com
+162.254.195.12 cache2-tyo1.steamcontent.com
+162.254.195.12 cache1-mad1.steamcontent.com
+162.254.195.12 cache2-mad1.steamcontent.com
+162.254.195.12 cache3-mad1.steamcontent.com
+162.254.195.12 cache4-mad1.steamcontent.com
+162.254.195.12 cache5-mad1.steamcontent.com
+162.254.195.12 cache6-mad1.steamcontent.com
+162.254.195.12 cache1-par1.steamcontent.com
+162.254.195.12 cache2-par1.steamcontent.com
+162.254.195.12 cache3-par1.steamcontent.com
+162.254.195.12 cache4-par1.steamcontent.com
+162.254.195.12 cache5-par1.steamcontent.com
+162.254.195.12 cache6-par1.steamcontent.com
+162.254.195.12 cache7-par1.steamcontent.com
+162.254.195.12 cache8-par1.steamcontent.com
+162.254.195.12 cache1-tyo2.steamcontent.com
+162.254.195.12 cache2-tyo2.steamcontent.com
+162.254.195.12 cache3-tyo2.steamcontent.com
+162.254.195.12 cache4-tyo2.steamcontent.com
+162.254.195.12 cache1-per-nxhp.steamcontent.com
+162.254.195.12 cache1-syd1.steamcontent.com
+162.254.195.12 cache2-syd1.steamcontent.com
+162.254.195.12 cache3-syd1.steamcontent.com
+162.254.195.12 cache1-scl1.steamcontent.com
+162.254.195.12 cache2-scl1.steamcontent.com
+162.254.195.12 cache2-ams1.steamcontent.com
+162.254.195.12 cache3-ams1.steamcontent.com
+162.254.195.12 cache4-ams1.steamcontent.com
+162.254.195.12 cache5-ams1.steamcontent.com
+162.254.195.12 cache6-ams1.steamcontent.com
+162.254.195.12 cache7-ams1.steamcontent.com
+162.254.195.12 cache8-ams1.steamcontent.com
+162.254.195.12 cache9-ams1.steamcontent.com
+162.254.195.12 cache10-ams1.steamcontent.com
+162.254.195.12 cache11-ams1.steamcontent.com
+162.254.195.12 cache12-ams1.steamcontent.com
+162.254.195.12 cache13-ams1.steamcontent.com
+162.254.195.12 cache14-ams1.steamcontent.com
+162.254.195.12 cache15-ams1.steamcontent.com
+162.254.195.12 cache16-ams1.steamcontent.com
+162.254.195.12 cache17-ams1.steamcontent.com
+162.254.195.12 cache18-ams1.steamcontent.com
+162.254.195.12 cache1-yyc-tsvy.steamcontent.com
+162.254.195.12 cache1-waw1.steamcontent.com
+162.254.195.12 cache2-waw1.steamcontent.com
+162.254.195.12 cache3-waw1.steamcontent.com
+162.254.195.12 cache4-waw1.steamcontent.com
+162.254.195.12 cache1-sgp1.steamcontent.com
+162.254.195.12 cache2-sgp1.steamcontent.com
+162.254.195.12 cache3-sgp1.steamcontent.com
+162.254.195.12 cache4-sgp1.steamcontent.com
+162.254.195.12 cache5-sgp1.steamcontent.com
+162.254.195.12 cache6-sgp1.steamcontent.com
+162.254.195.12 cache7-sgp1.steamcontent.com
+162.254.195.12 cache8-sgp1.steamcontent.com
+162.254.195.12 cache9-sgp1.steamcontent.com
+162.254.195.12 cache10-sgp1.steamcontent.com
+162.254.195.12 cache11-sgp1.steamcontent.com
+162.254.195.12 cache12-sgp1.steamcontent.com
+162.254.195.12 cache1-vno-bite.steamcontent.com
+162.254.195.12 cache2-vno-bite.steamcontent.com
+162.254.195.12 cache1-svo-retn.steamcontent.com
+162.254.195.12 cache2-svo-retn.steamcontent.com
+162.254.195.12 cache1-mmx-cmhm.steamcontent.com
+162.254.195.12 cache1-okc1.steamcontent.com
+162.254.195.12 cache2-okc1.steamcontent.com
+162.254.195.12 cache3-okc1.steamcontent.com
+162.254.195.12 cache4-okc1.steamcontent.com
+162.254.195.12 cache5-okc1.steamcontent.com
+162.254.195.12 cache6-okc1.steamcontent.com
+162.254.195.12 cache7-okc1.steamcontent.com
+162.254.195.12 cache8-okc1.steamcontent.com
+162.254.195.12 cache1-vie1.steamcontent.com
+162.254.195.12 cache2-vie1.steamcontent.com
+162.254.195.12 cache3-vie1.steamcontent.com
+162.254.195.12 cache4-vie1.steamcontent.com
+162.254.195.12 cache5-vie1.steamcontent.com
+162.254.195.12 cache6-vie1.steamcontent.com
+162.254.195.12 cache7-vie1.steamcontent.com
+162.254.195.12 cache8-vie1.steamcontent.com
+162.254.195.12 cache9-vie1.steamcontent.com
+162.254.195.12 cache10-vie1.steamcontent.com
+162.254.195.12 cache11-vie1.steamcontent.com
+162.254.195.12 cache12-vie1.steamcontent.com
+162.254.195.12 cache1-sto2.steamcontent.com
+162.254.195.12 cache2-sto2.steamcontent.com
+162.254.195.12 cache3-sto2.steamcontent.com
+162.254.195.12 cache4-sto2.steamcontent.com
+162.254.195.12 cache5-sto2.steamcontent.com
+162.254.195.12 cache6-sto2.steamcontent.com
+162.254.195.12 cache7-sto2.steamcontent.com
+162.254.195.12 cache8-sto2.steamcontent.com
+162.254.195.12 cache9-sto2.steamcontent.com
+162.254.195.12 cache10-sto2.steamcontent.com
+162.254.195.12 cache1-bkk-TRUE.steamcontent.com
+162.254.195.12 cache2-bkk-TRUE.steamcontent.com
+162.254.195.12 cache1-sof-retn.steamcontent.com
+162.254.195.12 cache2-sof-retn.steamcontent.com
+162.254.195.12 cache1-got-cmhm.steamcontent.com
+162.254.195.12 cache1-mfm-cdtm.steamcontent.com
+162.254.195.12 cache2-mfm-cdtm.steamcontent.com
+162.254.195.12 cache1-yyz-tsvy.steamcontent.com
+162.254.195.12 cache1-maa1.steamcontent.com
+162.254.195.12 cache1-lim1.steamcontent.com
+162.254.195.12 cache2-lim1.steamcontent.com
+162.254.195.12 cache1-ymo-bell.steamcontent.com
+162.254.195.12 cache2-ymo-bell.steamcontent.com
+162.254.195.12 cache1-uln-untl.steamcontent.com
+162.254.195.12 cache1-mel-aubb.steamcontent.com
+162.254.195.12 cache1-dxb1.steamcontent.com
+162.254.195.12 cache2-dxb1.steamcontent.com
+162.254.195.12 cache1-bkk-jast.steamcontent.com
+162.254.195.12 cache2-bkk-jast.steamcontent.com
+162.254.195.12 cache1-hel-retn.steamcontent.com
+162.254.195.12 cache2-hel-retn.steamcontent.com
+162.254.195.12 cache1-yyc-shaw.steamcontent.com
+162.254.195.12 cache1-bom1.steamcontent.com
+162.254.195.12 cache10-gru1.steamcontent.com
+162.254.195.12 cache10-seo1.steamcontent.com
+162.254.195.12 cache12-atl1.steamcontent.com
+162.254.195.12 cache12-fra1.steamcontent.com
+162.254.195.12 cache13-atl1.steamcontent.com
+162.254.195.12 cache17-fra1.steamcontent.com
+162.254.195.12 cache18-fra1.steamcontent.com
+162.254.195.12 cache19-fra1.steamcontent.com
+162.254.195.12 cache1-akl-tpwr.steamcontent.com
+162.254.195.12 cache1-akl-vgnz.steamcontent.com
+162.254.195.12 cache1-ala-kzkt.steamcontent.com
+162.254.195.12 cache1-ams1.steamcontent.com
+162.254.195.12 cache1-bne-aubb.steamcontent.com
+162.254.195.12 cache1-bud-retn.steamcontent.com
+162.254.195.12 cache1-cfc-acol.steamcontent.com
+162.254.195.12 cache1-dfw1.steamcontent.com
+162.254.195.12 cache1-dsa-ask4.steamcontent.com
+162.254.195.12 cache1-eze1.steamcontent.com
+162.254.195.12 cache1-fra2.steamcontent.com
+162.254.195.12 cache1-iev-datl.steamcontent.com
+162.254.195.12 cache1-jnb1.steamcontent.com
+162.254.195.12 cache1-mel-edgx.steamcontent.com
+162.254.195.12 cache1-ods-retn.steamcontent.com
+162.254.195.12 cache1-per-edgx.steamcontent.com
+162.254.195.12 cache1-rix-retn.steamcontent.com
+162.254.195.12 cache1-seo1.steamcontent.com
+162.254.195.12 cache1-waw-extl.steamcontent.com
+162.254.195.12 cache20-fra1.steamcontent.com
+162.254.195.12 cache2-akl-tpwr.steamcontent.com
+162.254.195.12 cache2-akl-vgnz.steamcontent.com
+162.254.195.12 cache2-ala-kzkt.steamcontent.com
+162.254.195.12 cache2-bne-aubb.steamcontent.com
+162.254.195.12 cache2-bud-retn.steamcontent.com
+162.254.195.12 cache2-cfc-acol.steamcontent.com
+162.254.195.12 cache2-dfw1.steamcontent.com
+162.254.195.12 cache2-dsa-ask4.steamcontent.com
+162.254.195.12 cache2-eze1.steamcontent.com
+162.254.195.12 cache2-fra2.steamcontent.com
+162.254.195.12 cache2-got-cmhm.steamcontent.com
+162.254.195.12 cache2-gsv-retn.steamcontent.com
+162.254.195.12 cache2-iev-datl.steamcontent.com
+162.254.195.12 cache2-jnb1.steamcontent.com
+162.254.195.12 cache2-mel-aubb.steamcontent.com
+162.254.195.12 cache2-mel-edgx.steamcontent.com
+162.254.195.12 cache2-mmx-cmhm.steamcontent.com
+162.254.195.12 cache2-ods-retn.steamcontent.com
+162.254.195.12 cache2-per-edgx.steamcontent.com
+162.254.195.12 cache2-per-nxhp.steamcontent.com
+162.254.195.12 cache2-rix-retn.steamcontent.com
+162.254.195.12 cache2-seo1.steamcontent.com
+162.254.195.12 cache2-waw-extl.steamcontent.com
+162.254.195.12 cache2-yvr-shaw.steamcontent.com
+162.254.195.12 cache2-yyc-shaw.steamcontent.com
+162.254.195.12 cache3-dfw1.steamcontent.com
+162.254.195.12 cache3-eze1.steamcontent.com
+162.254.195.12 cache3-fra2.steamcontent.com
+162.254.195.12 cache3-seo1.steamcontent.com
+162.254.195.12 cache3-tyo1.steamcontent.com
+162.254.195.12 cache4-dfw1.steamcontent.com
+162.254.195.12 cache4-eze1.steamcontent.com
+162.254.195.12 cache4-fra2.steamcontent.com
+162.254.195.12 cache4-seo1.steamcontent.com
+162.254.195.12 cache4-syd1.steamcontent.com
+162.254.195.12 cache4-tyo1.steamcontent.com
+162.254.195.12 cache5-fra2.steamcontent.com
+162.254.195.12 cache5-seo1.steamcontent.com
+162.254.195.12 cache5-syd1.steamcontent.com
+162.254.195.12 cache5-tyo1.steamcontent.com
+162.254.195.12 cache6-fra2.steamcontent.com
+162.254.195.12 cache6-seo1.steamcontent.com
+162.254.195.12 cache6-tyo1.steamcontent.com
+162.254.195.12 cache7-fra2.steamcontent.com
+162.254.195.12 cache7-lhr1.steamcontent.com
+162.254.195.12 cache7-seo1.steamcontent.com
+162.254.195.12 cache7-seo-hwng.steamcontent.com
+162.254.195.12 cache8-fra1.steamcontent.com
+162.254.195.12 cache8-fra2.steamcontent.com
+162.254.195.12 cache8-seo1.steamcontent.com
+162.254.195.12 cache9-gru1.steamcontent.com
+162.254.195.12 cache9-seo1.steamcontent.com
+23.215.101.104 steampipe.akamaized.net
+23.215.101.104 steampipe-kr.akamaized.net
+23.215.101.104 steampipe-partner.akamaized.net
+14.0.41.249 steam.eca.qtlglb.com
+14.0.41.249 steam.naeu.qtlglb.com
+14.0.41.249 steam.ru.qtlglb.com
+8.253.153.244 level3.cdn.steampipe.steamcontent.com
+8.253.153.244 steampipe-partner.secure2.footprint.net
+69.252.60.58 edge.steam-dns.top.comcast.net
+69.252.60.58 edge.steam-dns.top.comcast.net
+122.224.10.11 uplaypc-s-ubisoft.cdn.ubionline.com.cn
+96.7.251.162 gamedownloads-rockstargames-com.akamaized.net
+13.32.72.36 download.epicgames.com
+13.32.72.36 download2.epicgames.com
+13.32.72.36 download3.epicgames.com
+13.32.72.36 download4.epicgames.com
+23.53.228.64 epicgames-download1.akamaized.net
+146.75.2.33 fastly-download.epicgames.com
+101.71.71.50 epicgames-download1-1251447533.file.myqcloud.com
+
