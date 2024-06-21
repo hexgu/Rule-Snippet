@@ -63,6 +63,6 @@ if apple_cdn_processed is not None:
 if download_processed is not None:
     write_to_file("./Clash/domainset/download.yaml", download_processed)
 if downloadip_processed is not None:
-    write_to_file("./Clash/non_ip/downloadip.yaml", downloadip_processed)
+    write_to_file("./Clash/non_ip/download.yaml", downloadip_processed)
 if china_ip_processed is not None:
     write_to_file("./Clash/ip/china_ip.yaml", china_ip_processed)
