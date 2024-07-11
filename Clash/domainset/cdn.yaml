@@ -332,6 +332,7 @@ payload:
   - '+.img2.acsta.net'
   - '+.img3.acsta.net'
   - 'wwwimages2.adobe.com'
+  - 'npm.antfu.dev'
   - 'pba.apple.com'
   - 'ocsp2.apple.com'
   - 'events-live.apple.com'
