@@ -1472,6 +1472,7 @@ payload:
   - '+.stackblitz.io'
   - 'content-prod-live.cert.starbucks.com'
   - '+.proxy.startpage.com'
+  - '+.proxy2.startpage.com'
   - '+.eu-proxy.startpage.com'
   - '+.eu-browse.startpage.com'
   - '+.statically.io'
