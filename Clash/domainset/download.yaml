@@ -2,6 +2,7 @@ payload:
   - 'this_ruleset_is_made_by_sukkaw.ruleset.skk.moe'
   - '+.cdn.ea.com'
   - 'releases.arc.net'
+  - 'formulae.brew.sh'
   - 'mirror.cat.net'
   - 'mirrors.cat.net'
   - 'ftp.gnu.org'
