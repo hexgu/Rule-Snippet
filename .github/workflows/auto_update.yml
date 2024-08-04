@@ -23,7 +23,7 @@ jobs:
         pip install requests
 
     - name: Download File
-      run: python Actions/clash.py
+      run: python /clash.py
 
     - name: Commit和Push
       env:
