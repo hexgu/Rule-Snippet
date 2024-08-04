@@ -22,10 +22,11 @@ jobs:
       run: |
         pip install requests
 
-    - name: Download File
-      run: python /clash.py
+    - name: Download Files
+      run: |
+        python /adguard.py & python /clash.py
 
-    - name: Commit和Push
+    - name: Commit and Push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
