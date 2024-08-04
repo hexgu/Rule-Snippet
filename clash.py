@@ -1,68 +1,42 @@
 import requests
+from typing import List, Optional
+import os
 
 
-def process_file(url):
-    """
-    从给定的URL获取文件，并对其进行处理。
-
-    参数:
-    url (str): 文件的URL。
-
-    返回:
-    list: 处理后的文件内容，每一行都被格式化为 "  - 'line'"。
-    None: 如果请求的状态码不是200，则返回None。
-    """
-    response = requests.get(url)
-    if response.status_code == 200:
-        lines = response.text.split('\n')
-        processed_lines = []
-        for line in lines:
-            if line.strip() and not line.strip().startswith('#'):
-                processed_lines.append(f"  - '{line.strip()}'")
-        return processed_lines
-    else:
+def process_file(url: str) -> Optional[List[str]]:
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        return [f"  - '{line.strip()}'" for line in response.text.splitlines()
+                if line.strip() and not line.strip().startswith('#')]
+    except requests.RequestException:
         return None
 
 
-def write_to_file(filename, processed_content):
-    """
-    将处理后的内容写入文件。
-
-    参数:
-    filename (str): 要写入的文件的名称。
-    processed_content (list): 处理后的文件内容。
-    """
+def write_to_file(filename: str, processed_content: List[str]) -> None:
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w', encoding='utf-8') as file:
         file.write("payload:\n")
-        for line in processed_content:
-            file.write(line + '\n')
+        file.writelines(f"{line}\n" for line in processed_content)
 
 
-# 获取文件并处理
-reject_url = "https://ruleset.skk.moe/Clash/domainset/reject.txt"
-cdn_url = "https://ruleset.skk.moe/Clash/domainset/cdn.txt"
-apple_cdn_url = "https://ruleset.skk.moe/Clash/domainset/apple_cdn.txt"
-download_url = "https://ruleset.skk.moe/Clash/domainset/download.txt"
-downloadip_url = "https://ruleset.skk.moe/Clash/non_ip/download.txt"
-china_ip = "https://ruleset.skk.moe/Clash/ip/china_ip.txt"
+def main():
+    urls = {
+        "reject": ("https://ruleset.skk.moe/Clash/domainset/reject.txt", "./Clash/domainset/reject.yaml"),
+        "cdn": ("https://ruleset.skk.moe/Clash/domainset/cdn.txt", "./Clash/domainset/cdn.yaml"),
+        "apple_cdn": ("https://ruleset.skk.moe/Clash/domainset/apple_cdn.txt", "./Clash/domainset/apple_cdn.yaml"),
+        "download": ("https://ruleset.skk.moe/Clash/domainset/download.txt", "./Clash/domainset/download.yaml"),
+        "downloadip": ("https://ruleset.skk.moe/Clash/non_ip/download.txt", "./Clash/non_ip/download.yaml"),
+        "china_ip": ("https://ruleset.skk.moe/Clash/ip/china_ip.txt", "./Clash/ip/china_ip.yaml")
+    }
 
-reject_processed = process_file(reject_url)
-cdn_processed = process_file(cdn_url)
-apple_cdn_processed = process_file(apple_cdn_url)
-download_processed = process_file(download_url)
-downloadip_processed = process_file(downloadip_url)
-china_ip_processed = process_file(china_ip)
+    for name, (url, output_file) in urls.items():
+        processed_content = process_file(url)
+        if processed_content:
+            write_to_file(output_file, processed_content)
+        else:
+            print(f"Failed to process {name} from {url}")
 
-# 写入文件
-if reject_processed is not None:
-    write_to_file("./Clash/domainset/reject.yaml", reject_processed)
-if cdn_processed is not None:
-    write_to_file("./Clash/domainset/cdn.yaml", cdn_processed)
-if apple_cdn_processed is not None:
-    write_to_file("./Clash/domainset/apple_cdn.yaml", apple_cdn_processed)
-if download_processed is not None:
-    write_to_file("./Clash/domainset/download.yaml", download_processed)
-if downloadip_processed is not None:
-    write_to_file("./Clash/non_ip/download.yaml", downloadip_processed)
-if china_ip_processed is not None:
-    write_to_file("./Clash/ip/china_ip.yaml", china_ip_processed)
+
+if __name__ == "__main__":
+    main()
