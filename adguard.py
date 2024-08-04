@@ -1,6 +1,4 @@
 import requests
-import re
-import os
 
 
 def fetch_content(url):
@@ -10,6 +8,8 @@ def fetch_content(url):
 
 def convert_to_adblock(lines, rule_type):
     adblock_rules = []
+    current_rule_type = None
+
     for line in lines:
         line = line.strip()
         if not line or line.startswith('#') or line.startswith('!'):
@@ -25,13 +25,22 @@ def convert_to_adblock(lines, rule_type):
             else:
                 adblock_rules.append(f"||{line}^")
         elif rule_type == 'RULE-SET':
-            parts = line.split(',')
-            if len(parts) == 2:
-                rule_type, domain = parts
-                if rule_type in ['DOMAIN', 'DOMAIN-SUFFIX', 'DOMAIN-KEYWORD']:
-                    adblock_rules.append(f"||{domain}^")
-                elif rule_type == 'DOMAIN-REGEX':
-                    adblock_rules.append(f"/{domain}/")
+            if ',' in line:
+                parts = line.split(',')
+                current_rule_type = parts[0]
+                value = ','.join(parts[1:])
+            else:
+                value = line
+
+            if current_rule_type == 'DOMAIN':
+                adblock_rules.append(f"||{value}^")
+            elif current_rule_type == 'DOMAIN-SUFFIX':
+                adblock_rules.append(f"||*.{value}^")
+            elif current_rule_type == 'DOMAIN-KEYWORD':
+                adblock_rules.append(f"*{value}*")
+            elif current_rule_type == 'DOMAIN-REGEX':
+                adblock_rules.append(f"/{value}/")
+            # IP-CIDR, IP-CIDR6, GEOIP 和其他不支持的规则类型都被忽略
 
     return adblock_rules
 
@@ -42,7 +51,8 @@ def main():
         ('https://ruleset.skk.moe/List/domainset/reject_extra.conf', 'DOMAIN-SET', 'reject_extra'),
         ('https://ruleset.skk.moe/List/non_ip/reject.conf', 'RULE-SET', 'non_ip_reject'),
         ('https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf', 'RULE-SET', 'non_ip_reject-no-drop'),
-        ('https://ruleset.skk.moe/List/non_ip/reject-drop.conf', 'RULE-SET', 'non_ip_reject-drop')
+        ('https://ruleset.skk.moe/List/non_ip/reject-drop.conf', 'RULE-SET', 'non_ip_reject-drop'),
+        ('https://ruleset.skk.moe/List/non_ip/sogouinput.conf', 'RULE-SET', 'non_ip_sogouinput')
     ]
 
     for url, rule_type, file_name in urls:
