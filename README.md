@@ -25,6 +25,7 @@ github actions 每天自动更新，保持上游同步
 >所以 subconverter 无法正确处理 SukkaW/Surge Clash 规则集格式,需要额外添加规则集以确保兼容性
 >
 
+~~~
 clash-domain:https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/Clash/domainset/reject.yaml
 
 clash-domain:https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/Clash/domainset/cdn.yaml
@@ -36,9 +37,10 @@ clash-domain:https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/Clash/dom
 clash-domain:https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/Clash/non_ip/download.yaml
 
 clash-ipcidr:https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/Clash/ip/china_ip.yaml
-
+~~~
 ### Adguard Home
 
+~~~
 https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/AdGuard/adguard-reject_extra.txt
 
 https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/AdGuard/adguard-reject.txt
@@ -48,7 +50,7 @@ https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/AdGuard/adguard-non_ip
 https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/AdGuard/adguard-non_ip_reject-drop.txt
 
 https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/AdGuard/adguard-non_ip_reject.txt
-
+~~~
 ## 项目鸣谢
 
 本项目数据来源以下作者及其项目
