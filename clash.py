@@ -22,12 +22,18 @@ def write_to_file(filename: str, processed_content: List[str]) -> None:
 
 def main():
     urls = {
-        "reject": ("https://ruleset.skk.moe/Clash/domainset/reject.txt", "./Clash/domainset/reject.yaml"),
-        "cdn": ("https://ruleset.skk.moe/Clash/domainset/cdn.txt", "./Clash/domainset/cdn.yaml"),
-        "apple_cdn": ("https://ruleset.skk.moe/Clash/domainset/apple_cdn.txt", "./Clash/domainset/apple_cdn.yaml"),
-        "download": ("https://ruleset.skk.moe/Clash/domainset/download.txt", "./Clash/domainset/download.yaml"),
-        "downloadip": ("https://ruleset.skk.moe/Clash/non_ip/download.txt", "./Clash/non_ip/download.yaml"),
-        "china_ip": ("https://ruleset.skk.moe/Clash/ip/china_ip.txt", "./Clash/ip/china_ip.yaml")
+        "reject": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/domainset/reject.txt",
+                   "./Clash/domainset/reject.yaml"),
+        "cdn": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/domainset/cdn.txt",
+                "./Clash/domainset/cdn.yaml"),
+        "apple_cdn": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/domainset/apple_cdn.txt",
+                      "./Clash/domainset/apple_cdn.yaml"),
+        "download": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/domainset/download.txt",
+                     "./Clash/domainset/download.yaml"),
+        "downloadip": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/download.txt",
+                       "./Clash/non_ip/download.yaml"),
+        "china_ip": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/ip/china_ip.txt",
+                     "./Clash/ip/china_ip.yaml")
     }
 
     for name, (url, output_file) in urls.items():

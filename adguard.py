@@ -47,12 +47,19 @@ def convert_to_adblock(lines, rule_type):
 
 def main():
     urls = [
-        ('https://ruleset.skk.moe/List/domainset/reject.conf', 'DOMAIN-SET', 'reject'),
-        ('https://ruleset.skk.moe/List/domainset/reject_extra.conf', 'DOMAIN-SET', 'reject_extra'),
-        ('https://ruleset.skk.moe/List/non_ip/reject.conf', 'RULE-SET', 'non_ip_reject'),
-        ('https://ruleset.skk.moe/List/non_ip/reject-no-drop.conf', 'RULE-SET', 'non_ip_reject-no-drop'),
-        ('https://ruleset.skk.moe/List/non_ip/reject-drop.conf', 'RULE-SET', 'non_ip_reject-drop'),
-        ('https://ruleset.skk.moe/List/non_ip/sogouinput.conf', 'RULE-SET', 'non_ip_sogouinput')
+        ('https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/List/domainset/reject.conf', 'DOMAIN-SET',
+         'reject'),
+        ('https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/List/domainset/reject_extra.conf',
+         'DOMAIN-SET', 'reject_extra'),
+        ('https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/List/non_ip/reject.conf', 'RULE-SET',
+         'non_ip_reject'),
+        (
+        'https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/List/non_ip/reject-no-drop.conf', 'RULE-SET',
+        'non_ip_reject-no-drop'),
+        ('https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/List/non_ip/reject-drop.conf', 'RULE-SET',
+         'non_ip_reject-drop'),
+        ('https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/List/non_ip/sogouinput.conf', 'RULE-SET',
+         'non_ip_sogouinput')
     ]
 
     for url, rule_type, file_name in urls:
