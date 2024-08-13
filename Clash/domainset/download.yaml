@@ -85,6 +85,7 @@ payload:
   - 'cache.pack.google.com'
   - 'download.mlcc.google.com'
   - 'download.tensorflow.google.com'
+  - 'iterm2.com'
   - '+.repo.jing.rocks'
   - 'mirrors.edge.kernel.org'
   - '+.mega.co.nz'
