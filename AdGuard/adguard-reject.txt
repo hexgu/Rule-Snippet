@@ -4178,6 +4178,7 @@
 ||wall.vgr.com^
 ||ssc.vh1.com^
 ||matomo.vibb.ax^
+||s.vibe.co^
 ||link.vibo.io^
 ||get.vida.co^
 ||tracking.viez.vn^
@@ -11783,6 +11784,7 @@
 ||kebi1.top^
 ||kejet.net^
 ||kemas.top^
+||kemaz.xyz^
 ||s.kenh14.vn^
 ||ywrcqa.kens5.com^
 ||srepdata.kens5.com^
@@ -12322,6 +12324,7 @@
 ||cudgoz.mifcom.de^
 ||a8.migxl.com^
 ||a8clk.miidas.jp^
+||360down7.miiyun.cn^
 ||mikka.app^
 ||mikop.xyz^
 ||ea.millet.fr^
@@ -15217,7 +15220,6 @@
 ||0stats.com^
 ||a8cv.1-class.jp^
 ||1000dy.com^
-||1717.1000uc.com^
 ||m1.100how.com^
 ||1024mzs.pw^
 ||105app.com^
@@ -16947,6 +16949,7 @@
 ||tk.boutique.capital.fr^
 ||marketing.caplin.com^
 ||capndr.com^
+||caqreg.xyz^
 ||car-cra.sh^
 ||sokutei.car2828.jp^
 ||pixel.carambo.la^
@@ -22835,6 +22838,7 @@
 ||seret.live^
 ||collect.serious.li^
 ||quewex.serv00.net^
+||itsthepartything.serv00.net^
 ||servg1.net^
 ||servote.de^
 ||data-b71e59c9ac.servus.com^
@@ -32549,6 +32553,7 @@
 ||connect.planusa.org^
 ||stats.planxti.com^
 ||collector.plarium.com^
+||analytics.plasmic.app^
 ||marketing.plastiq.com^
 ||mt.plateiq.com^
 ||plavxml.com^
@@ -36813,6 +36818,7 @@
 ||666lotte.com^
 ||691f42ad.xyz^
 ||6kportot.com^
+||72075223.xyz^
 ||76236osm1.ru^
 ||7841ffda.xyz^
 ||78b78ff8.xyz^
@@ -38794,6 +38800,7 @@
 ||choapeek.com^
 ||choawour.xyz^
 ||chong-wu.net^
+||choocmee.com^
 ||choogeet.net^
 ||choongou.com^
 ||choongou.xyz^
@@ -42920,6 +42927,7 @@
 ||lkdybkwi.xyz^
 ||lkoxbiwi.com^
 ||ifkzro.llbean.co.jp^
+||lllshkre.com^
 ||trk.lmipumps.com^
 ||lmoney01.com^
 ||data-0e6bbb5192.lmscloud.net^
@@ -43215,6 +43223,7 @@
 ||maxforta.com^
 ||maxisurf.net^
 ||seyfwl.maxmodels.pl^
+||maxmoney.com^
 ||saa.maxpreps.com^
 ||maxrilla.com^
 ||s.maxrozen.com^
@@ -44751,6 +44760,7 @@
 ||pc180101.com^
 ||yjlbvd.pcfactory.cl^
 ||emotir.pcone.com.tw^
+||sp.pcoptimum.ca^
 ||smetrics.pcoptimum.ca^
 ||tick.pcrpriser.se^
 ||mail.pcygphil.com^
@@ -48726,7 +48736,6 @@
 ||yqiavtoy.com^
 ||yrszy.com.cn^
 ||ys3e965d.top^
-||ysbaojia.com^
 ||yscntxil.com^
 ||ysesials.net^
 ||cv.online.ysroad.co.jp^
@@ -49737,6 +49746,7 @@
 ||biowebb-data.s3.amazonaws.com^
 ||cloudfront-labs.amazonaws.com^
 ||babes-mansion.s3.amazonaws.com^
+||bbuseruploads.s3.amazonaws.com^
 ||sprocket-ping.s3.amazonaws.com^
 ||syncplusconfig.s3.amazonaws.com^
 ||yieldmo-builds.s3.amazonaws.com^
@@ -51840,7 +51850,6 @@
 ||affiliate.diatomplus.cz^
 ||diccsbhij.com^
 ||xiqvza.dickblick.com^
-||diclegrup.org^
 ||ec.didnsunns.com^
 ||data-d88bd5abf8.die-glocke.de^
 ||marketing.dienerlaw.net^
@@ -51858,6 +51867,7 @@
 ||dimeeghoo.com^
 ||dimestore.com^
 ||dimfarlow.com^
+||dinejav11.fun^
 ||smetrics.dinersclub.dk^
 ||linktrace.diningcity.cn^
 ||dinseegny.com^
@@ -56734,6 +56744,7 @@
 ||portsspat.com^
 ||positional.ai^
 ||activate.post-trib.com^
+||postaipay.top^
 ||postback.info^
 ||a8cv.postcoffee.co^
 ||postitial.com^
@@ -56794,6 +56805,7 @@
 ||privymktg.com^
 ||prmobiles.com^
 ||prmtracks.com^
+||prngpwifu.com^
 ||trk.pro-activ.com^
 ||pro-advert.de^
 ||pro-hacks.com^
@@ -57891,6 +57903,7 @@
 ||snapcheat.app^
 ||snapcheat.net^
 ||link.snaphabit.app^
+||ingest-data-afra.snappfood.dev^
 ||sneakwind.com^
 ||snigelweb.com^
 ||snipersex.com^
@@ -58741,6 +58754,7 @@
 ||tozoruaon.com^
 ||tp1902abd.com^
 ||tpdethnol.com^
+||tpedvcvde.com^
 ||tpizy1uy3x.ru^
 ||tpzzdrxnp.com^
 ||tqwxtglpr.com^
@@ -60171,6 +60185,7 @@
 ||100widgets.com^
 ||1028images.com^
 ||c4038bd4ca.103dc14b45.com^
+||107e9a08a8.com^
 ||af043ebde4.10a03eb82c.com^
 ||smetrics.10daily.com.au^
 ||113-bca.online^
@@ -65724,6 +65739,7 @@
 ||g0-get-msg.net^
 ||g1188506010.co^
 ||g1584674682.co^
+||g1584674684.co^
 ||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
@@ -70857,6 +70873,7 @@
 ||sstats.tiffany.com.au^
 ||smetrics.tiffany.com.br^
 ||smetrics.tiffany.com.mx^
+||tigipurcyw.com^
 ||tk.tikamoon.co.uk^
 ||tikivip666.com^
 ||tikivip777.com^
@@ -72180,6 +72197,7 @@
 ||zlknhbwwlu.com^
 ||zlkpfhyrjd.com^
 ||zmhbgjifpz.com^
+||zmysashrep.com^
 ||zoeaegyral.com^
 ||zogrepsili.com^
 ||p.zol-img.com.cn^
@@ -72521,6 +72539,7 @@
 ||ajillionmax.com^
 ||smetrics.ajinomoto.co.jp^
 ||ajlwaseodqo.com^
+||ajregrrcxhv.com^
 ||akenacngmnj.com^
 ||akjorcnawqp.com^
 ||partneri.akodlhsiezit.sk^
@@ -79452,6 +79471,7 @@
 ||a8cv.studycompass.io^
 ||stats.studyquicks.com^
 ||autotrack.studyquicks.com^
+||stupid-luck.com^
 ||stupidscene.com^
 ||stupidsnake.com^
 ||sturdysnail.com^
@@ -92798,6 +92818,7 @@
 ||infernoalts.store^
 ||infinity-info.com^
 ||learn.infinitylearn.com^
+||no88kks.infinityscans.net^
 ||ok88okg.infinityscans.net^
 ||infirmaryboss.com^
 ||influencedbox.com^
@@ -94236,7 +94257,6 @@
 ||orientalrazor.com^
 ||originalhack.info^
 ||ed.originalpress.com^
-||orlandovargas.pro^
 ||ormolusapiary.com^
 ||oscaranimation.in^
 ||walrus.oscaroarevalo.com^
@@ -95795,7 +95815,6 @@
 ||techiteration.com^
 ||a8cv.techkidsschool.jp^
 ||ad.technews-iran.com^
-||techniguitare.com^
 ||sgtm.technikboerse.com^
 ||mail.techniservinc.com^
 ||technoshadows.com^
@@ -102860,7 +102879,7 @@
 ||yxkfaskdaybakf.com^
 ||zanox-affiliate.de^
 ||zantpvrsmninvx.com^
-||st.zarebasdezaley.com^
+||zarebasdezaley.com^
 ||hi.zaufanarecenzja.pl^
 ||zbfemgimtyejpm.com^
 ||zcekqwlqktzrfq.com^
@@ -105083,6 +105102,7 @@
 ||labourmuttering.com^
 ||trk.lacostemagasin.shop^
 ||ni8.lafuma-boutique.com^
+||laithepacinko.click^
 ||info.lakewoodwestend.org^
 ||tyvuwf.lameteoagricole.net^
 ||lampshademirror.com^
@@ -107351,6 +107371,7 @@
 ||yrincelewasgiw.info^
 ||ysemblyjusting.info^
 ||yuanchengxiezuo.com^
+||yusiswensaidoh.info^
 ||ywopyohpihnkppc.xyz^
 ||ywronwasthetron.com^
 ||yyjngvuaqrdgghs.com^
@@ -111434,6 +111455,7 @@
 ||customarydesolate.com^
 ||customerconversio.com^
 ||customersupport.click^
+||cvxwaslonejulyha.info^
 ||marketing.cyber360solutions.com^
 ||obqclg.dadway-onlineshop.com^
 ||ttn.dailyculinarytips.com^
@@ -115892,7 +115914,6 @@
 ||info.bintheredumpthatusa.com^
 ||binweevilsdoshcodes.com^
 ||biteneverthelessnan.com^
-||bitkiselurunsiparis.com^
 ||bitternessjudicious.com^
 ||blastworthwhilewith.com^
 ||bloodbrothershacked.com^
@@ -120738,7 +120759,6 @@
 ||outwitridiculousresume.com^
 ||overallalreadyregistry.com^
 ||pacificvernonoutskirts.com^
-||palharesinformatica.com.br^
 ||pancakedusteradmirable.com^
 ||panicmiserableeligible.com^
 ||parachuteeffectedotter.com^
@@ -122801,6 +122821,7 @@
 ||reluctanceleatheroptional.com^
 ||remembertoolsuperstitious.com^
 ||renewmodificationflashing.com^
+||replaceexplanationevasion.com^
 ||resolvedalarmmelodramatic.com^
 ||resourceisabellareligious.com^
 ||securedata.retailpartnerscolruytgroup.be^

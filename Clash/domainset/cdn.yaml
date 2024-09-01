@@ -1252,6 +1252,7 @@ payload:
   - '+.jsdelivr.net'
   - 'cdn.jwplayer.com'
   - 'img.kbhgames.com'
+  - '+.kirafile.com'
   - 'cdn.langshop.app'
   - 'assets.leetcode.com'
   - 'static-lccn.leetcode.com'
