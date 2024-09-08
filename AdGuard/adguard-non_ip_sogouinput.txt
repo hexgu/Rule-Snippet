@@ -1,10 +1,10 @@
 ||this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
-||otheve.beacon.qq.com^
 ||oth.str.mdt.qq.com^
-||*.get.sogou.com^
-||*.shouji.sogou.com^
-||*.account.sogou.com^
-||*.pinyin.sogou.com^
-||*.ime.sogou.com^
-||*.macime.sogou.com^
+||otheve.beacon.qq.com^
 ||*.sginput.qq.com^
+||*.macime.sogou.com^
+||*.ime.sogou.com^
+||*.pinyin.sogou.com^
+||*.account.sogou.com^
+||*.shouji.sogou.com^
+||*.get.sogou.com^
