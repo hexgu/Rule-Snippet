@@ -769,6 +769,7 @@ payload:
   - 'repo.nextdns.io'
   - 'favicons.nextdns.io'
   - 'telemetry.nextjs.org'
+  - '+.nextui.org'
   - 'i.niupic.com'
   - '+.nodejs.org'
   - 'images.now-tv.com'
