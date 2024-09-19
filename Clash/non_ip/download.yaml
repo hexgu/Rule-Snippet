@@ -1,5 +1,5 @@
 payload:
   - 'DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe'
   - 'DOMAIN-REGEX,^download[a-zA-Z0-9-_.]*?\.mediafire\.com$'
-  - 'DOMAIN-REGEX,^ftp\.[a-zA-Z0-9-_.]*?\.debian\.org$'
+  - 'DOMAIN-REGEX,^ftp\.[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.debian\.org$'
   - 'DOMAIN-REGEX,^edgedl\.me\.gvt[a-zA-Z0-9-_.]\.com$'
