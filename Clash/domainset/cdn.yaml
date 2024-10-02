@@ -1078,6 +1078,7 @@ payload:
   - 'js.hsforms.net'
   - 'js-eu1.hsforms.net'
   - '+.js.hubspot.com'
+  - '+.js-eu1.hubspot.com'
   - '+.static2cdn.hubspot.com'
   - '+.cdn2.hubspot.net'
   - 'avatars.hubspot.net'
