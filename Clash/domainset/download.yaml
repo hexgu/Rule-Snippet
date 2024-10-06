@@ -541,6 +541,7 @@ payload:
   - 'install.virtfusion.net'
   - 'packages.virtfusion.net'
   - 'dl-cdn.alpinelinux.org'
+  - '+.s3.us-west-002.backblazeb2.com'
   - '+.dl.playstation.net'
   - 'downloads.raspberrypi.com'
   - '+.dl.sourceforge.net'
