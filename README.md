@@ -39,7 +39,11 @@ clash-domain:https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/Clash/non
 clash-ipcidr:https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/Clash/ip/china_ip.yaml
 ~~~
 ### Adguard Home
-
+> https://ruleset.skk.moe/Internal/reject-adguardhome.txt
+> 
+> 试验性的 AdGuardHome Blocklist、基于 SukkaW/Surge (https://github.com/SukkaW/Surge) Reject Base 的数据集（不包含 Reject Extra）生成
+> 
+> @SukkaChannel
 ~~~
 https://raw.githubusercontent.com/hexgu/Rule-Snippet/main/AdGuard/adguard-reject_extra.txt
 
