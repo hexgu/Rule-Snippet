@@ -1,4 +1,4 @@
 ||this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
 ||*.null^
-||*.geo2.adobe.com^
 ||*.undefined^
+||*.geo2.adobe.com^
