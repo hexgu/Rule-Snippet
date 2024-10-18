@@ -64,6 +64,7 @@ payload:
   - 'updates.istatmenus.app'
   - '+.cdn.ea.com'
   - 'dl.ui.com'
+  - '+.artifacts.ui.com'
   - 'gog-cdn-fastly.gog.com'
   - 'gog-cdn-fastly-cp77.gog.com'
   - '+.cdn.ubi.com'

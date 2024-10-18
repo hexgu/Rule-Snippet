@@ -1477,6 +1477,8 @@ payload:
   - 'static.mendeley.com'
   - 'api.mintlify.com'
   - 'thumbnailer.mixcloud.com'
+  - 'api.mixpanel.com'
+  - 'api-eu.mixpanel.com'
   - 'cdn.modrinth.com'
   - 'cdn-raw.modrinth.com'
   - '+.sny.monosnap.com'
