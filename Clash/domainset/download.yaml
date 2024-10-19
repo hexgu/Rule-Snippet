@@ -213,6 +213,7 @@ payload:
   - 'content7.steampowered.com'
   - 'content8.steampowered.com'
   - 'content-origin.steampowered.com'
+  - 'updates-cdn.bravesoftware.com'
   - 'ctldl.windowsupdate.com'
   - 'ftp.androidfilehost.com'
   - 'ava6.androidfilehost.com'

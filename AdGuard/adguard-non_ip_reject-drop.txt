@@ -2,3 +2,4 @@
 ||*.null^
 ||*.undefined^
 ||*.geo2.adobe.com^
+||*.in.applicationinsights.azure.com^
