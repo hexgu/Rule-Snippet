@@ -1,4 +1,5 @@
 ||this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
+||*.beacon.qq.com^
 ||*.sginput.qq.com^
 ||*.get.sogou.com^
 ||*.ime.sogou.com^
@@ -6,5 +7,4 @@
 ||*.pinyin.sogou.com^
 ||*.shouji.sogou.com^
 ||*.account.sogou.com^
-||otheve.beacon.qq.com^
 ||oth.str.mdt.qq.com^
