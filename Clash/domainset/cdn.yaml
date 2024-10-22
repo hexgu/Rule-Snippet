@@ -2428,7 +2428,7 @@ payload:
   - 'widgets.media.weather.com'
   - 'widgets-red.media.weather.com'
   - 'image.p-c2-x.abema-tv.com'
-  - 'widget.cluster.groovehq.com'
+  - '+.widget.cluster.groovehq.com'
   - '+.cdn.survey.medallia.com'
   - 'cdn.accounts.nintendo.com'
   - 'epic-social-social-modules-prod.ol.epicgames.com'
