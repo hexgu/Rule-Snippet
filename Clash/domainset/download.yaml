@@ -297,6 +297,7 @@ payload:
   - 'get.pixelexperience.org'
   - 'download.pixelexperience.org'
   - '+.copr.fedorainfracloud.org'
+  - 'mirror.apad.pro'
   - 'boot.netboot.xyz'
   - '+.repo.jing.rocks'
   - 'mirror.xtom.com.hk'
