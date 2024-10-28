@@ -1725,6 +1725,7 @@
 ||viralmails.de^
 ||wiredminds.de^
 ||123-counter.de^
+||adpresenter.de^
 ||affilimatch.de^
 ||bitcoinpara.de^
 ||blog-o-rama.de^
@@ -40059,9 +40060,11 @@
 ||4wfe3.icu^
 ||5brxi.icu^
 ||5mltq.icu^
+||5z2oy.icu^
 ||62zd0.icu^
 ||6zfem.icu^
 ||82zcb.icu^
+||8gra3.icu^
 ||8q88n.icu^
 ||9s64g.icu^
 ||9t51o.icu^
@@ -40420,6 +40423,8 @@
 ||pxqqytk.icu^
 ||qdjsiyt.icu^
 ||qfaaokr.icu^
+||qnqtgyq.icu^
+||qqganna.icu^
 ||qrmozsc.icu^
 ||qtoidch.icu^
 ||rayajmp.icu^
@@ -40435,6 +40440,7 @@
 ||ryqgdrh.icu^
 ||sgozmks.icu^
 ||shopeee.icu^
+||sjluuom.icu^
 ||skaumbp.icu^
 ||slcmvgr.icu^
 ||snueirk.icu^
@@ -44488,6 +44494,7 @@
 ||ugidskit.top^
 ||ultracdn.top^
 ||unifdlat.top^
+||uouvxlit.top^
 ||urutvnct.top^
 ||uumnxiet.top^
 ||uwursert.top^
@@ -51231,6 +51238,7 @@
 ||hymnramoon.click^
 ||jhsnshueyt.click^
 ||kegtopless.click^
+||mamaunweft.click^
 ||mildsewery.click^
 ||odintsures.click^
 ||ornatomial.click^
@@ -51757,6 +51765,7 @@
 ||vaytiennhanh247.space^
 ||warumbistdusoarm.space^
 ||012024jhvjhkozekl.space^
+||bigstoreminigames.space^
 ||vaytienduyetnhanh.space^
 ||vaytiennhanh1phut.space^
 ||vaytienlaisuatthap.space^
