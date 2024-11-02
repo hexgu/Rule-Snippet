@@ -3,4 +3,3 @@ payload:
   - 'DOMAIN-REGEX,^download[a-zA-Z0-9-_.]*?\.mediafire\.com$'
   - 'DOMAIN-REGEX,^ftp\.[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.debian\.org$'
   - 'DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.s3\.[a-zA-Z0-9-_.]*?\.backblazeb2\.com$'
-  - 'DOMAIN-REGEX,^edgedl\.me\.gvt[a-zA-Z0-9-_.]\.com$'
