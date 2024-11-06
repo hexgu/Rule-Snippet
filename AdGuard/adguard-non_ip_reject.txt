@@ -1,4 +1,5 @@
 ||this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
+||*.histats.com^
 ||*.notify6.com^
 ||*.crazyegg.com^
 ||*.amplitude.com^
