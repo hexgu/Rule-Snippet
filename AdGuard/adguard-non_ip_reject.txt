@@ -9,6 +9,8 @@
 ||*.omtrdc.net^
 ||*.httpdns.pro^
 ||dns.weibo.cn^
+||ttnet-dig.feishu.cn^
+||ttnet-doh.feishu.cn^
 ||*.net.mydays.de^
 ||dns.jd.com^
 ||httpdns.baidu.com^
