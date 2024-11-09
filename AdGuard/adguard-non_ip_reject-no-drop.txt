@@ -1,1 +1,3 @@
 ||this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
+||*.mcdn.bilivideo.cn^
+||*.p2p.huya.com^
