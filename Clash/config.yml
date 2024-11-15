@@ -25,8 +25,44 @@ dns:
    - https://1.0.0.1/dns-query
    - https://dns.google/dns-query
    - https://doh.opendns.com/dns-query
-  fallback-filter:
-     geoip: true
-     geoip-code: CN
-     ipcidr:
-       - 240.0.0.0/4
+  fake-ip-filter:
+    - +.+m2m
+    - +.$injections.adguard.org
+    - +.$local.adguard.org
+    - +.+_tcp
+    - +.+bogon
+    - +.+_msdcs
+    - +.+lan
+    - +.+localdomain
+    - +.home.arpa
+    - +.10.in-addr.arpa
+    - +.16.172.in-addr.arpa
+    - +.17.172.in-addr.arpa
+    - +.18.172.in-addr.arpa
+    - +.19.172.in-addr.arpa
+    - +.20.172.in-addr.arpa
+    - +.21.172.in-addr.arpa
+    - +.22.172.in-addr.arpa
+    - +.23.172.in-addr.arpa
+    - +.24.172.in-addr.arpa
+    - +.25.172.in-addr.arpa
+    - +.26.172.in-addr.arpa
+    - +.27.172.in-addr.arpa
+    - +.28.172.in-addr.arpa
+    - +.29.172.in-addr.arpa
+    - +.30.172.in-addr.arpa
+    - +.31.172.in-addr.arpa
+    - +.168.192.in-addr.arpa
+    - +.254.169.in-addr.arpa
+    - dns.msftncsi.com
+    - "*.srv.nintendo.net"
+    - "*.stun.playstation.net"
+    - xbox.*.microsoft.com
+    - "*.xboxlive.com"
+    - "*.turn.twilio.com"
+    - "*.stun.twilio.com"
+    - stun.syncthing.net
+  geoip: true
+  geoip-code: CN
+  ipcidr:
+    - 240.0.0.0/4
