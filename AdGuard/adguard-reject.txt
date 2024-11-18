@@ -37595,6 +37595,7 @@
 ||lwvrv.icu^
 ||mapss.icu^
 ||mdhv3.icu^
+||mhwy6.icu^
 ||mm1qj.icu^
 ||moqdy.icu^
 ||mymap.icu^
@@ -37878,6 +37879,7 @@
 ||hwymoyv.icu^
 ||ibaglhc.icu^
 ||ieymhkx.icu^
+||iflucav.icu^
 ||ifmccdn.icu^
 ||ifxqubw.icu^
 ||ihssdas.icu^
@@ -38114,6 +38116,7 @@
 ||vrdfxioe.icu^
 ||vzdkngmf.icu^
 ||wenoolgo.icu^
+||wsgnihbh.icu^
 ||xbbhwggj.icu^
 ||xjtosdof.icu^
 ||xnbuapwp.icu^
@@ -39787,6 +39790,7 @@
 ||contexthub.net^
 ||cpaconvtrk.net^
 ||crosspixel.net^
+||crypto-ads.net^
 ||dainouluph.net^
 ||dasistnews.net^
 ||datesspace.net^
@@ -42044,6 +42048,7 @@
 ||toublii.top^
 ||ttgbnmk.top^
 ||turesdi.top^
+||tweisii.top^
 ||twerioi.top^
 ||tyisloi.top^
 ||tyretui.top^
@@ -42059,6 +42064,7 @@
 ||urtlist.top^
 ||usyliet.top^
 ||uuresdt.top^
+||uweisit.top^
 ||uweriot.top^
 ||uyislot.top^
 ||uyretut.top^
@@ -42227,6 +42233,7 @@
 ||ys3e965d.top^
 ||aliexshop.top^
 ||ama-zmart.top^
+||ao1118kas.top^
 ||arcedcoss.top^
 ||baovietcv.top^
 ||baovietin.top^
@@ -52397,9 +52404,7 @@
 ||channel-analysis-js.gmw.cn^
 ||g.hsw.cn^
 ||g.mnw.cn^
-||ntp.msn.cn^
 ||srtb.msn.cn^
-||assets.msn.cn^
 ||mbbank.net.cn^
 ||fanzhuang.net.cn^
 ||dm.pw0.cn^
@@ -52456,7 +52461,6 @@
 ||u.xogu.cn^
 ||xue.zbyw.cn^
 ||render-web.11222.cn^
-||ad.12306.cn^
 ||ent1.12584.cn^
 ||m5.66077.cn^
 ||1.66law.cn^
@@ -53012,7 +53016,6 @@
 ||tarsier.webcrafters.co^
 ||mandrill.yellowfruit.co^
 ||s.everydayporn.co^
-||serve.everydayporn.co^
 ||478789.everydayporn.co^
 ||61serve.everydayporn.co^
 ||usaoptimizedby.increasingly.co^
@@ -64159,6 +64162,7 @@
 ||smetrics.schindler.sa^
 ||agxwhz.bloomingdales.sa^
 ||stat.u.sb^
+||stat.dns.sb^
 ||stats.tnc.sc^
 ||sms.3.se^
 ||mitt.3.se^
@@ -66773,8 +66777,6 @@
 ||h2.msn.com^
 ||ac3.msn.com^
 ||ads.msn.com^
-||api.msn.com^
-||ntp.msn.com^
 ||otf.msn.com^
 ||rad.msn.com^
 ||rel.msn.com^
@@ -81849,7 +81851,6 @@
 ||info.josephmday.com^
 ||smetrics.jre-travel.com^
 ||loon.jrmyfranck.com^
-||ele26126.jscrambler.com^
 ||www.jsnzoe301m.com^
 ||track.junexgames.com^
 ||track.junexgreen.com^
@@ -83241,7 +83242,6 @@
 ||analytic.buoyweather.com^
 ||analytics.buoyweather.com^
 ||s.bussyhunter.com^
-||serve.bussyhunter.com^
 ||33serve.bussyhunter.com^
 ||app.butterflymx.com^
 ||xbyovz.button-blue.com^
@@ -84879,7 +84879,6 @@
 ||static-ssp.yidianzixun.com^
 ||log.yougameover.com^
 ||a9o.youlikeboys.com^
-||serve.yourporngod.com^
 ||25serve.yourporngod.com^
 ||get.yugengamers.com^
 ||share.yugengamers.com^
@@ -98166,6 +98165,8 @@
 ||frdoki.heisei-housewarming.work^
 ||intextlinks.idg.zone^
 ||somni.rkt.zone^
+||cwa.html.zone^
+||umm.html.zone^
 ||prod.adjoe.zone^
 ||fraud.adjoe.zone^
 ||play.wavelength.zone^
