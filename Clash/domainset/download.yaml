@@ -217,6 +217,7 @@ payload:
   - '+.swupdate.chaosgroup.com'
   - 'update.googleapis.com'
   - 'deb.nodesource.com'
+  - 'dl.cleverfiles.com'
   - '+.egdownload.fastly-edge.com'
   - 'downloads.raspberrypi.com'
   - '+.content.steampowered.com'
