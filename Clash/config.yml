@@ -62,6 +62,8 @@ dns:
     - "*.turn.twilio.com"
     - "*.stun.twilio.com"
     - stun.syncthing.net
+    - controlplane.tailscale.com
+    - log.tailscale.io
   geoip: true
   geoip-code: CN
   ipcidr:
