@@ -501,6 +501,7 @@ payload:
   - '+.debian.map.fastlydns.net'
   - '+.ftp2.de.debian.org'
   - 'mirrors.edge.kernel.org'
+  - 'versioncheck.addons.mozilla.org'
   - 'versioncheck-bg.addons.mozilla.org'
   - '+.s3.fr-par.scw.cloud'
   - '+.s3-website.fr-par.scw.cloud'
