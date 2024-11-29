@@ -6447,7 +6447,6 @@
 ||chidir.com^
 ||chtntr.com^
 ||churci.com^
-||cision.com^
 ||cizion.com^
 ||cj2550.com^
 ||cjvdfw.com^
@@ -18850,6 +18849,7 @@
 ||yrdrtzmsmt.com^
 ||yrvzqabfxe.com^
 ||yuanmengbi.com^
+||yuanzunxs1.com^
 ||yuriembark.com^
 ||yvzgazds6d.com^
 ||yxajqsrsij.com^
@@ -36867,6 +36867,7 @@
 ||g41i.icu^
 ||wi1f.icu^
 ||y7ts.icu^
+||z9k7.icu^
 ||0pdsa.icu^
 ||1cecn.icu^
 ||1dki0.icu^
@@ -37873,6 +37874,7 @@
 ||optify.net^
 ||peer39.net^
 ||pipsol.net^
+||planad.net^
 ||plexop.net^
 ||podefr.net^
 ||polyad.net^
@@ -46231,6 +46233,7 @@
 ||1cash.info^
 ||3file.info^
 ||awlov.info^
+||bmmwa.info^
 ||dopor.info^
 ||fedra.info^
 ||geede.info^
