@@ -1,4 +1,5 @@
 payload:
+  - 'ghp.ci'
   - '+.file.io'
   - '+.ghcr.io'
   - '+.mega.io'
