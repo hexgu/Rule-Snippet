@@ -281,6 +281,7 @@ payload:
   - 'invent.kde.org'
   - 'download.gimp.org'
   - 'cdimage.kali.org'
+  - 'downloads.xiph.org'
   - '+.deb.debian.org'
   - '+.ftp.debian.org'
   - '+.archive.debian.org'
