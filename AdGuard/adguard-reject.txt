@@ -8484,6 +8484,7 @@
 ||domfehu.com^
 ||doo888x.com^
 ||doonedo.com^
+||dosawes.com^
 ||dougale.com^
 ||downlon.com^
 ||dpahlsm.com^
@@ -11578,7 +11579,6 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
-||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -12528,6 +12528,7 @@
 ||sunshijc.com^
 ||suozmtcc.com^
 ||surfmdia.com^
+||suzalsln.com^
 ||svekolka.com^
 ||svitnews.com^
 ||swanbxca.com^
@@ -14416,6 +14417,7 @@
 ||luolitang.com^
 ||lushaseex.com^
 ||lushcrush.com^
+||lusupodum.com^
 ||luxupadva.com^
 ||luxupcdna.com^
 ||luxupcdnb.com^
@@ -16656,6 +16658,7 @@
 ||cityadspix.com^
 ||cjmakeding.com^
 ||cjxomyilmv.com^
+||clairpixum.com^
 ||clamcelery.com^
 ||clammytree.com^
 ||claritytag.com^
@@ -37137,6 +37140,7 @@
 ||4i1.icu^
 ||4sq.icu^
 ||7hb.icu^
+||a7c.icu^
 ||d5r.icu^
 ||e9h.icu^
 ||f7j.icu^
@@ -42805,6 +42809,7 @@
 ||vietcapital.vip^
 ||hdsaison-app.vip^
 ||nowaoutujm-u.vip^
+||playgooglevn.vip^
 ||screenstudio.vip^
 ||travelokeaaa.vip^
 ||vietsovpetro.vip^
@@ -66913,6 +66918,7 @@
 ||ows.ihs.com^
 ||owss.ihs.com^
 ||images.ihs.com^
+||f793.inc.com^
 ||m.irl.com^
 ||ct.irl.com^
 ||lets-dev.irl.com^
@@ -67982,6 +67988,7 @@
 ||join-test.step.com^
 ||branch-test.step.com^
 ||txt.styr.com^
+||metrics-prod.suno.com^
 ||app.suse.com^
 ||images.suse.com^
 ||info.suzy.com^
@@ -68082,9 +68089,11 @@
 ||u999.wcvb.com^
 ||lol.wcy2.com^
 ||axp.wdhn.com^
+||y494.wdsu.com^
 ||axp.wdtn.com^
 ||stats.webs.com^
 ||data-collector.wefi.com^
+||b932.wesh.com^
 ||go.west.com^
 ||safety.west.com^
 ||ywrcqa.wfaa.com^
@@ -69914,6 +69923,7 @@
 ||gspjom.3balls.com^
 ||www1.3dcent.com^
 ||marketing.3scorp.com^
+||v063.4029tv.com^
 ||aa.429men.com^
 ||jo.429men.com^
 ||oi.429men.com^
@@ -70577,6 +70587,7 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
+||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -71490,6 +71501,7 @@
 ||ws-goguardian.pusher.com^
 ||sockjs-goguardian.pusher.com^
 ||cdn.puyjjq.com^
+||g086.puzzmo.com^
 ||ptarmigan.q-free.com^
 ||xml.q32167.com^
 ||filter.q32167.com^
@@ -74832,6 +74844,7 @@
 ||target.wedenik.com^
 ||smetrics.wedenik.com^
 ||branch.weeblme.com^
+||u896.weekand.com^
 ||smetrics.weflive.com^
 ||mbox.wegmans.com^
 ||smetrics.wegmans.com^
@@ -76032,6 +76045,7 @@
 ||smetrics.hdfcbank.com^
 ||tmetrics.hdfcbank.com^
 ||secure-e.healthiq.com^
+||v706.hearstnp.com^
 ||metrics.heathrow.com^
 ||smetrics.heathrow.com^
 ||smetrics.hebdebit.com^
@@ -82226,6 +82240,7 @@
 ||education.greatbatch.com^
 ||rtb-useast.greedygame.com^
 ||ads.greengeeks.com^
+||s860.greenstate.com^
 ||smetrics.greenstate.com^
 ||analytics.groupe-seb.com^
 ||applink.groupthera.com^
@@ -83409,6 +83424,7 @@
 ||events.turbosquid.com^
 ||webmetrics.turnwrench.com^
 ||s1.tuzhaozhao.com^
+||f703.twincities.com^
 ||android.txtsmarter.com^
 ||l.typesquare.com^
 ||exhibit.ubm-events.com^
@@ -86472,6 +86488,7 @@
 ||genesis.malwarebytes.com^
 ||telemetry.malwarebytes.com^
 ||yx1.managershare.com^
+||z210.manisteenews.com^
 ||marketing.marineagency.com^
 ||analytics.martinandosa.com^
 ||stats.martyntaylor.com^
@@ -87075,6 +87092,7 @@
 ||go.thesavingshq.com^
 ||sp.thestarpress.com^
 ||ahzygy.thesteelshop.com^
+||p116.thetelegraph.com^
 ||metrics.thetrainline.com^
 ||app.thetriviabar.com^
 ||first.thetrustnest.com^
@@ -87451,6 +87469,7 @@
 ||hqfthz.betterlifeuae.com^
 ||tracking.bettingexpert.com^
 ||metrics.beveragedaily.com^
+||m700.bigrapidsnews.com^
 ||a.bigtennetwork.com^
 ||www.binaryoptionz.com^
 ||marketing.bio-optronics.com^
@@ -87588,6 +87607,7 @@
 ||activate.columbiaflier.com^
 ||info.columninfosec.com^
 ||sc.comedycentral.com^
+||g010.comicskingdom.com^
 ||sp.companychouan.com^
 ||chat.compassshield.com^
 ||go.computacenter.com^
@@ -88425,6 +88445,7 @@
 ||c2.realusacenter.com^
 ||go.receive-offer.com^
 ||a8.recmount-plus.com^
+||l029.recordpatriot.com^
 ||info.recoverypoint.com^
 ||xyimai.redbirdshouse.com^
 ||activate.redeyechicago.com^
@@ -89424,6 +89445,7 @@
 ||a8clk.kyoyu-mochibun.com^
 ||rnasaj.labelandthread.com^
 ||laidback.laidbacklondon.com^
+||v812.lakecountystar.com^
 ||uarrdg.landsofamerica.com^
 ||rrznha.lanvin-en-bleu.com^
 ||mu.laplingskevish.com^
@@ -89498,6 +89520,7 @@
 ||simg.mgsgamesonline.com^
 ||jncx1s.michaellindahl.com^
 ||smetrics.michiganfarmer.com^
+||m367.michigansthumb.com^
 ||meat.midanmarketing.com^
 ||smetrics.midnightlounge.com^
 ||marketing.midstate-sales.com^
@@ -90893,6 +90916,7 @@
 ||rklxjd.thegrindfitness.com^
 ||track.thegundogaffair.com^
 ||ounwut.thehappyplanner.com^
+||u660.theheraldreview.com^
 ||go.thehomeprograms.com^
 ||track.theinsightpulse.com^
 ||rgmseo.thejewellershop.com^
@@ -91471,6 +91495,7 @@
 ||agentcomm.mercuryinsurance.com^
 ||trk.metronetbusiness.com^
 ||info.metronetbusiness.com^
+||e642.midlanddailynews.com^
 ||metric.millenniumhotels.com^
 ||smetric.millenniumhotels.com^
 ||kxtqgp.mistermenuiserie.com^
@@ -91488,6 +91513,7 @@
 ||marketing.moverschoiceinfo.com^
 ||smetrics.mrplumberatlanta.com^
 ||hcjpbc.muscleandfitness.com^
+||t002.myjournalcourier.com^
 ||redtrack.nakedandthriving.com^
 ||barnacle.natalieandmikeyb.com^
 ||hcjpbc.nationalenquirer.com^
@@ -93076,7 +93102,19 @@
 ||qjxizo.covertcommunication.com^
 ||marketing.crawford-industries.com^
 ||ttn.culinaryhealthguide.com^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||trk.datacenterknowledge.com^
 ||lungfish.datadividendproject.com^
 ||marketing.decisioninvestments.com^
@@ -94152,6 +94190,7 @@
 ||tr.events-europa-organisation.com^
 ||engage.informaconstructionmarkets.com^
 ||metrics.internationalwinechallenge.com^
+||i595.jacksonvillejournalcourier.com^
 ||metrics.kunilexusofcoloradosprings.com^
 ||rt.livingthegoodlifenaturally.com^
 ||vision.neurobiocomportementalisme.com^
@@ -104091,6 +104130,7 @@
 ||0.code.cotsta.ru^
 ||log.strm.yandex.ru^
 ||sentry01.zerg.rambler.ru^
+||mytop.live.vkvideo.ru^
 ||stat.rum.cdnvideo.ru^
 ||svi.online.sberbank.ru^
 ||grs.platform.dbankcloud.ru^

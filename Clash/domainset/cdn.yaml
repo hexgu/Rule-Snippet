@@ -2569,6 +2569,7 @@ payload:
   - 'ipfs.d.tube'
   - '+.ipfs.litnet.work'
   - 'img.itch.zone'
+  - 'cdn.bigcloud.click'
   - 'static.bit.cloud'
   - 'fscdn.eppo.cloud'
   - 'patterns.hiive.cloud'
