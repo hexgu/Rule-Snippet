@@ -2802,6 +2802,7 @@
 ||tget.me^
 ||up4u.me^
 ||vlnk.me^
+||wkzw.me^
 ||1q2w3.me^
 ||adbro.me^
 ||admax.me^
@@ -11578,6 +11579,7 @@
 ||linkfars.com^
 ||linkmepu.com^
 ||linkmink.com^
+||linksprf.com^
 ||list-ads.com^
 ||liverail.com^
 ||livestat.com^
@@ -11709,6 +11711,7 @@
 ||mobstrks.com^
 ||mobytrks.com^
 ||mochibot.com^
+||moengage.com^
 ||moguldom.com^
 ||mohengdu.com^
 ||moilizoi.com^
@@ -12788,6 +12791,7 @@
 ||viivedun.com^
 ||viiyblva.com^
 ||vilmgins.com^
+||vimaxckc.com^
 ||viptizer.com^
 ||viral481.com^
 ||viral782.com^
@@ -13026,6 +13030,7 @@
 ||zinovila.com^
 ||zipakrar.com^
 ||zipodita.com^
+||ziqniduy.com^
 ||zirve100.com^
 ||zlacraft.com^
 ||zmjagawa.com^
@@ -13909,6 +13914,7 @@
 ||freestats.com^
 ||freetrckr.com^
 ||frfetchme.com^
+||frfsjjtis.com^
 ||friendbuy.com^
 ||frompilis.com^
 ||fronthlpr.com^
@@ -18066,6 +18072,7 @@
 ||prime-ever.com^
 ||primeleech.com^
 ||printsmull.com^
+||prioraslop.com^
 ||priselapse.com^
 ||privateadx.com^
 ||pro-pro-go.com^
@@ -18655,6 +18662,7 @@
 ||trccmpnlnk.com^
 ||treehousei.com^
 ||treenghsas.com^
+||treimphens.com^
 ||treklizard.com^
 ||trembleday.com^
 ||trentjesno.com^
@@ -20784,6 +20792,7 @@
 ||rewindgills.com^
 ||rficarolnak.com^
 ||rhagoseasta.com^
+||rhiaxplrolm.com^
 ||rhythmmoney.com^
 ||ribqpiocnzc.com^
 ||ric-ric-rum.com^
@@ -24231,6 +24240,7 @@
 ||wherevertogo.com^
 ||wherticewhee.com^
 ||whineattempt.com^
+||whirredbajau.com^
 ||whishannuent.com^
 ||whoaglouvawe.com^
 ||wholewowblog.com^
@@ -36983,6 +36993,7 @@
 ||advocate420.fun^
 ||buontien247.fun^
 ||catsnthings.fun^
+||dddstew6cw8.fun^
 ||dienmayxanh.fun^
 ||dtmjpefzybt.fun^
 ||farewell457.fun^
@@ -37171,6 +37182,7 @@
 ||4i1.icu^
 ||4sq.icu^
 ||7hb.icu^
+||8et.icu^
 ||a7c.icu^
 ||d0m.icu^
 ||d5r.icu^
@@ -37187,6 +37199,7 @@
 ||wt6.icu^
 ||x4d.icu^
 ||xu6.icu^
+||zr3.icu^
 ||0dwm.icu^
 ||1buo.icu^
 ||1gtp.icu^
@@ -37811,6 +37824,7 @@
 ||nmhbmfxh.icu^
 ||ntpnfyga.icu^
 ||oqipegjz.icu^
+||owsrgljb.icu^
 ||pdnwbwyf.icu^
 ||peclevnl.icu^
 ||plfwxtgu.icu^
@@ -39605,6 +39619,7 @@
 ||onclickads.net^
 ||onfluencer.net^
 ||onmarketer.net^
+||oomsurtour.net^
 ||oubsooceen.net^
 ||ouglauster.net^
 ||pagnawhouk.net^
@@ -41513,6 +41528,7 @@
 ||e6wwd.top^
 ||ebayu.top^
 ||fanjs.top^
+||fjuga.top^
 ||fuoo1.top^
 ||iaiqk.top^
 ||istcs.top^
@@ -41573,6 +41589,7 @@
 ||cooann.top^
 ||dayujs.top^
 ||demifa.top^
+||dhkqqe.top^
 ||dotuij.top^
 ||ectyet.top^
 ||efalid.top^
@@ -41626,6 +41643,7 @@
 ||wuisaq.top^
 ||xiuska.top^
 ||yclxrj.top^
+||yruadj.top^
 ||zla653.top^
 ||zla963.top^
 ||zlgame.top^
@@ -41660,6 +41678,7 @@
 ||coublif.top^
 ||crtlisf.top^
 ||csylief.top^
+||ctimiyf.top^
 ||ctyusif.top^
 ||curesdf.top^
 ||cwaterf.top^
@@ -41704,6 +41723,7 @@
 ||houbliu.top^
 ||hrtlisu.top^
 ||hsylieu.top^
+||htimiyu.top^
 ||htyusiu.top^
 ||huresdu.top^
 ||hwateru.top^
@@ -48025,6 +48045,7 @@
 ||marsin.shop^
 ||mmnc87.shop^
 ||phemex.shop^
+||pianis.shop^
 ||sd0053.shop^
 ||sd3053.shop^
 ||sd4034.shop^
@@ -48084,6 +48105,7 @@
 ||acsegt86.shop^
 ||amazonsg.shop^
 ||apple-vn.shop^
+||armablek.shop^
 ||baijs010.shop^
 ||balamall.shop^
 ||bromoneg.shop^
@@ -48102,6 +48124,7 @@
 ||mobaviet.shop^
 ||muntfd62.shop^
 ||ouvrefth.shop^
+||prestich.shop^
 ||pungar85.shop^
 ||spark123.shop^
 ||talaobsf.shop^
@@ -48425,6 +48448,7 @@
 ||kamahiunvisor.shop^
 ||karaiterather.shop^
 ||khazardungeon.shop^
+||knubletupgrow.shop^
 ||lantchaupbear.shop^
 ||leachysubarch.shop^
 ||logresempales.shop^
@@ -64068,7 +64092,6 @@
 ||pr.rusmed.ru^
 ||rot.rusoul.ru^
 ||log.rutube.ru^
-||goya.rutube.ru^
 ||yast.rutube.ru^
 ||c.sibnet.ru^
 ||vst.sibnet.ru^
@@ -64342,6 +64365,7 @@
 ||xrxybn.kotofey-shop.ru^
 ||dct.mango-office.ru^
 ||compare.meteoservice.ru^
+||www.mir-stalkera.ru^
 ||proxy.multikonline.ru^
 ||dl.nekropol-khv.ru^
 ||usnvuj.skillfactory.ru^
@@ -67298,7 +67322,6 @@
 ||log.ys7.com^
 ||marketing.ytc.com^
 ||smetrics.ytv.com^
-||services.zam.com^
 ||efg.zle.com^
 ||abcd.zle.com^
 ||www.zng.com^
@@ -70632,7 +70655,6 @@
 ||1.feihua.com^
 ||cash.femjoy.com^
 ||links.fennel.com^
-||hub.fghtem.com^
 ||go.fhlbny.com^
 ||join.fhlbny.com^
 ||learn.fhlbny.com^
@@ -76592,8 +76614,6 @@
 ||marketing.modalife.com^
 ||metrics.modcloth.com^
 ||odepcf.modetour.com^
-||apiv2.moengage.com^
-||sdk-04.moengage.com^
 ||applink.mojilala.com^
 ||stats.mokeedev.com^
 ||analytics.molistar.com^
@@ -85140,6 +85160,7 @@
 ||analytics.samsungknox.com^
 ||metrics.samsunglife.com^
 ||smetrics.samsunglife.com^
+||stats.samsungpass.com^
 ||data.samuraistea.com^
 ||info.sante-group.com^
 ||stats.sapnininkas.com^
@@ -98308,6 +98329,7 @@
 ||aardvark.tracking.ovh^
 ||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||a8.watero.pet^
+||go.17r.pro^
 ||link.cado.pro^
 ||js.cmoa.pro^
 ||pxl.knam.pro^
@@ -107005,7 +107027,6 @@
 ||httpdns-sdk.n.netease.com^
 ||ad.bn.netease.com^
 ||pr.nss.netease.com^
-||internal.dradis.netflix.com^
 ||saadata.career.netjets.com^
 ||images.info.newhope.com^
 ||us.tags.newscgp.com^
