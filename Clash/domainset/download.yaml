@@ -1,4 +1,5 @@
 payload:
+  - 'this_ruleset_is_made_by_sukkaw.ruleset.skk.moe'
   - 'ghp.ci'
   - '+.file.io'
   - '+.ghcr.io'
@@ -626,4 +627,3 @@ payload:
   - '+.s3-website.dualstack.ap-southeast-5.amazonaws.com'
   - '+.s3-accesspoint.dualstack.ap-southeast-5.amazonaws.com'
   - 'edge.steam-dns.top.comcast.net'
-  - 'this_ruleset_is_made_by_sukkaw.ruleset.skk.moe'
