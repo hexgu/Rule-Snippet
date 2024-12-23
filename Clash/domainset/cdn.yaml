@@ -1111,6 +1111,7 @@ payload:
   - 'assets.msn.com'
   - '+.cfcdn.mux.com'
   - 'image.mux.com'
+  - 'stream.mux.com'
   - 'sp.nba.com'
   - 'cdn.nba.com'
   - 'tags.nba.com'
