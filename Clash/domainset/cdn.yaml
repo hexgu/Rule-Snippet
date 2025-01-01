@@ -2548,6 +2548,7 @@ payload:
   - 'pcz.javidol.org'
   - 'cdn.mathjax.org'
   - 'archive.mozilla.org'
+  - 'assets.nxtrace.org'
   - 's.slideme.org'
   - '+.proxy.ustclug.org'
   - 'tools-static.wmflabs.org'
