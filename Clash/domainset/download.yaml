@@ -502,6 +502,7 @@ payload:
   - 'download.visualstudio.microsoft.com'
   - '+.s3.us-west-002.backblazeb2.com'
   - 'update.code.visualstudio.com'
+  - '+.public.blob.vercel-storage.com'
   - 'az764295.vo.msecnd.net'
   - 'download-installer.cdn.mozilla.net'
   - 'download-core.sys.truenas.net'
