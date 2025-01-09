@@ -15,6 +15,7 @@
 ||ttnet-dig.feishu.cn^
 ||ttnet-doh.feishu.cn^
 ||*.net.mydays.de^
+||*.adtech.redventures.io^
 ||dns.jd.com^
 ||httpdns.cctv.com^
 ||httpdns.baidu.com^
