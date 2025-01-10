@@ -3545,6 +3545,7 @@
 ||inoprosport.su^
 ||alfainternet.su^
 ||people-group.su^
+||twitter.sx^
 ||videovard.sx^
 ||dep.tc^
 ||cartponi.tk^
@@ -6937,6 +6938,7 @@
 ||vnpt99.com^
 ||vnrvss.com^
 ||vodxil.com^
+||volces.com^
 ||volyze.com^
 ||voniao.com^
 ||vonkol.com^
@@ -7707,6 +7709,7 @@
 ||eqdudaj.com^
 ||eramass.com^
 ||erandex.com^
+||ercoils.com^
 ||erdoscs.com^
 ||ergjohl.com^
 ||esjvrfq.com^
@@ -9912,6 +9915,7 @@
 ||chryvast.com^
 ||chsrkred.com^
 ||chultoux.com^
+||chumealq.com^
 ||chumsaft.com^
 ||chussuth.com^
 ||ciizxsdr.com^
@@ -36122,6 +36126,7 @@
 ||nm2.icu^
 ||nx8.icu^
 ||o3t.icu^
+||o8s.icu^
 ||q8q.icu^
 ||qm2.icu^
 ||r4u.icu^
@@ -44598,6 +44603,7 @@
 ||xvvsnnciengskyx.xyz^
 ||xxaks01080sspao.xyz^
 ||xxaks01081sspao.xyz^
+||xxaks01091sspao.xyz^
 ||ydagjjgqxmrlqjj.xyz^
 ||yicixvmgmhpvbcl.xyz^
 ||ymansxfmdjhvqly.xyz^
@@ -58408,10 +58414,8 @@
 ||business.face2.io^
 ||ads.holid.io^
 ||lynx.inovo.io^
-||b.karte.io^
 ||t.karte.io^
 ||gae.karte.io^
-||static.karte.io^
 ||cf-native.karte.io^
 ||client-log.karte.io^
 ||link.killi.io^
@@ -66058,6 +66062,7 @@
 ||smetrics.att.com^
 ||tracking.att.com^
 ||webinars.att.com^
+||dynatrace.att.com^
 ||resources.att.com^
 ||cyber-pages.att.com^
 ||microlearning.att.com^
@@ -68944,6 +68949,7 @@
 ||ss.svibs.com^
 ||abtest.swrve.com^
 ||metrics.sysco.com^
+||collector.t-idr.com^
 ||rtb2-useast.t3dsp.com^
 ||evixcd.t5ear.com^
 ||servedby.tahoe.com^
@@ -71315,6 +71321,7 @@
 ||platypus.tompec.com^
 ||metrics.toofab.com^
 ||smetrics.toofab.com^
+||publictelemetry.tophat.com^
 ||rvdnyq.topito.com^
 ||metrics.topman.com^
 ||svmarketing.torcvb.com^
@@ -106883,10 +106890,13 @@
 ||ac.dun.163.com^
 ||fp-upload.dun.163.com^
 ||timejs.game.163.com^
+||netapm.music.163.com^
 ||sentry.music.163.com^
 ||httpdns.music.163.com^
 ||clientlog.music.163.com^
 ||clientlog3.music.163.com^
+||clientlogsf.music.163.com^
+||clientlogdep.music.163.com^
 ||load.data.5ca.com^
 ||tms.ace.aaa.com^
 ||tags.mwg.aaa.com^
@@ -107521,6 +107531,7 @@
 ||o3gxzoewxl1x.cp.zomro.com^
 ||web.email.zone3.com^
 ||load.sgtm.zyxel.com^
+||ye.dun.163yun.com^
 ||metrics.pmis.abbott.com^
 ||smetrics.pmis.abbott.com^
 ||img.learn.abreon.com^
@@ -112168,6 +112179,7 @@
 ||heartbeats.prd.data.s.joyn.de^
 ||event-collector.prd.data.s.joyn.de^
 ||events-api.towneers.prod.data.krmt.io^
+||analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io^
 ||branch.vcf-test.vzw.dev.llabs.io^
 ||info.mkt.global.dnp.co.jp^
 ||www.secure.rc-club.ricoh.co.jp^
