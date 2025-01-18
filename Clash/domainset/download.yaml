@@ -271,7 +271,7 @@ payload:
   - 'playwright.azureedge.net'
   - 'pf-cdn-content-prod.azureedge.net'
   - 'ppa.launchpad.net'
-  - 'dl.discordapp.net'
+  - '+.dl.discordapp.net'
   - 'os-cdn.virtfusion.net'
   - 'install.virtfusion.net'
   - 'packages.virtfusion.net'
