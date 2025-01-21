@@ -132,3 +132,4 @@
 *wxsnsdy*
 *adwords*
 *-tracker.biliapi.net*
+*ad.ixigua.com*
