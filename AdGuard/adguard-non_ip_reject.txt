@@ -25,6 +25,7 @@
 ||doh.iqiyi.com^
 ||hdns.ksyun.com^
 ||httpdns.alicdn.com^
+||dns.wechat.com^
 ||httpdns.zybang.com^
 ||httpdns.bcelive.com^
 ||httpdns.meituan.com^
