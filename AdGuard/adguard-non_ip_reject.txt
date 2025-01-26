@@ -1,6 +1,12 @@
 ||this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
 ||*.juejin.cn^
+||*.bgp.co^
 ||*.juejin.im^
+||*.kimo.tw^
+||*.august.tw^
+||*.pgi.com^
+||*.esgltc.com^
+||*.moebgp.com^
 ||*.histats.com^
 ||*.minexmr.com^
 ||*.notify6.com^
@@ -11,6 +17,7 @@
 ||*.scorecardresearch.com^
 ||*.openx.net^
 ||*.omtrdc.net^
+||*.lambda-ix.net^
 ||*.httpdns.pro^
 ||dns.weibo.cn^
 ||doh.zjurl.cn^
@@ -18,6 +25,7 @@
 ||ttnet-doh.feishu.cn^
 ||*.net.mydays.de^
 ||*.adtech.redventures.io^
+||*.wakuwaku.ne.jp^
 ||dns.jd.com^
 ||httpdns.cctv.com^
 ||httpdns.baidu.com^
