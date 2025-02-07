@@ -1,5 +1,5 @@
 ||this_ruleset_is_made_by_sukkaw.ruleset.skk.moe^
-||*.null^
 ||*.undefined^
-||*.geo2.adobe.com^
+||*.null^
 ||*.in.applicationinsights.azure.com^
+||*.geo2.adobe.com^
