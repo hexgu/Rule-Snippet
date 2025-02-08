@@ -51,6 +51,7 @@ payload:
   - '+.ftp.debian.org'
   - '+.deb.debian.org'
   - '+.ftp2.de.debian.org'
+  - 'static.adtidy.org'
   - 'downloads.xiph.org'
   - 'cdimage.kali.org'
   - 'download.gimp.org'
