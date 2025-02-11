@@ -7293,6 +7293,7 @@
 ||ads.mobvertising.net^
 ||sadbmetrics.madridfusion.net^
 ||adbmetrics.madridfusion.net^
+||louthicoozit.net^
 ||loheveeheegh.net^
 ||marketing.leatherberry.net^
 ||ad.leadboltapps.net^
@@ -7743,6 +7744,7 @@
 ||marketing.lsnetworks.net^
 ||lp-preview.net^
 ||loushoafie.net^
+||loowhujoom.net^
 ||loghutouft.net^
 ||loadecouhi.net^
 ||lptag.liveperson.net^
@@ -8878,6 +8880,7 @@
 ||freshpops.net^
 ||foremedia.net^
 ||sat.fevilsor5.net^
+||feckurteg.net^
 ||hfbetl.fc-hikaku.net^
 ||fastclick.net^
 ||faireegli.net^
@@ -10131,6 +10134,7 @@
 ||analytics.avcdn.net^
 ||avazu.net^
 ||adstatistics.av380.net^
+||us-behavior.apitd.net^
 ||database01p.anixe.net^
 ||hbbtv01p.anixe.net^
 ||amon1.net^
@@ -19547,6 +19551,7 @@
 ||track.vigormasculine.com^
 ||campaign.viessmann-cool.com^
 ||campaign.viessmann-cold.com^
+||vidscriptshark.com^
 ||videoplayerhub.com^
 ||eu.viatrisconnect.com^
 ||vetchesthiever.com^
@@ -19673,6 +19678,7 @@
 ||activation.thunderinsider.com^
 ||images.news.thunderinsider.com^
 ||thronosgeneura.com^
+||threewoodslose.com^
 ||jdzmqj.thousandtrails.com^
 ||cortellisconnections.thomsonreuters.com^
 ||marketing-tracking.thomsonreuters.com^
@@ -21874,6 +21880,7 @@
 ||f164.sheltonherald.com^
 ||she-want-fuck.com^
 ||start.sharpclinical.com^
+||sharkfirelife.com^
 ||shareweeknews.com^
 ||cname2.shaken-yoyaku.com^
 ||sfkldbkldgdgh.com^
@@ -39451,6 +39458,7 @@
 ||lirretsn.com^
 ||res.lintlink.com^
 ||syndication.linkwitt.com^
+||linksprf.com^
 ||linkmink.com^
 ||syndication.linkfryn.com^
 ||st.linkfire.com^
@@ -42716,6 +42724,7 @@
 ||notabl8.com^
 ||applytics.nordvpn.com^
 ||cm.nordvpn.com^
+||nonguds.com^
 ||response.nofault.com^
 ||arabs.nodzway.com^
 ||nkredir.com^
@@ -57370,6 +57379,7 @@
 ||msg.simeji.me^
 ||analytics.proxer.me^
 ||porn18.me^
+||octo25.me^
 ||loopme.me^
 ||stats.erik.joling.me^
 ||inappi.me^
@@ -68935,7 +68945,6 @@
 ||rum.layer0.co^
 ||xydvxl.keikei.co^
 ||inappi.co^
-||prebid-cache.ifunny.co^
 ||events.ifunny.co^
 ||geoip.ifunny.co^
 ||analytics.gokwik.co^
