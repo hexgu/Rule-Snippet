@@ -31,6 +31,7 @@ payload:
   - 'releases.whatpulse.org'
   - 'mirrors.rpmfusion.org'
   - '+.tmpfiles.org'
+  - 'static.redox-os.org'
   - 'download.opensuse.org'
   - 'ciscobinary.openh264.org'
   - 'repo.debiancn.org'
