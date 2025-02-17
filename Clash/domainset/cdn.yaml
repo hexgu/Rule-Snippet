@@ -237,6 +237,7 @@ payload:
   - '+.doppiocdn.org'
   - '+.cdn.cookielaw.org'
   - 'cdn.cocoapods.org'
+  - 'images.videolan.org'
   - 'static.tronscan.org'
   - '+.rollupjs.org'
   - 'open-vsx.org'
