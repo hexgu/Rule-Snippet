@@ -120,6 +120,10 @@
 *dnserror*
 *marketing.net*
 *adktrack*
+*track.msadcenter*
+*dc.pimentaafricana*
+*-txtagstore*
+*thetollroads-*
 *_vmind.qqvideo.tc.qq.com*
 *-logging.nextmedia.com*
 *-spiky.clevertap-prod.com*
