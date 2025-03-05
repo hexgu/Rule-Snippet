@@ -125,6 +125,7 @@ payload:
   - 'cdn-updates.orbstack.dev'
   - 'api-updates.orbstack.dev'
   - 'cdn-images.orbstack.dev'
+  - 'releases.warp.dev'
   - '+.r2.dev'
   - '+.digitaloceanspaces.com'
   - 'pkg-containers.githubusercontent.com'
