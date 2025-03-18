@@ -153,3 +153,8 @@
 *adwords*
 *-tracker.biliapi.net*
 *ad.ixigua.com*
+*trksvg.business.hsbc.*
+*trkgbm.business.hsbc.*
+*trkhinv.business.hsbc.*
+*trkcmb.business.hsbc.*
+*-analytics-events.apple.com*
