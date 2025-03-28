@@ -2974,6 +2974,7 @@ payload:
   - '+.readthedocs.io'
   - 'static.mytonwallet.io'
   - 'cdn.ip2location.io'
+  - '+.intercomcdn.io'
   - '+.infura-ipfs.io'
   - 'cdn.imageengine.io'
   - 'badges.greenkeeper.io'
