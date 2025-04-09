@@ -105,6 +105,7 @@
 *fb-community-standards*
 *fb-business-appeal*
 *cp-home-pl-*
+*tlauncher*
 *track.tiara*
 *umeng*
 *adsby*
