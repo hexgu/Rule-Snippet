@@ -517,7 +517,7 @@ payload:
   - '+.itsre-sumo.mozilla.net'
   - 'interactive-examples.mdn.mozilla.net'
   - '+.cdn.mozilla.net'
-  - 'minotar.net'
+  - '+.minotar.net'
   - '+.jscloud.net'
   - 'pg2dhpc3p5ec22g3.jkforum.net'
   - 'play.izanmei.net'
