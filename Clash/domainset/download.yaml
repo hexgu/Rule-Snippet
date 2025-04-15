@@ -99,6 +99,7 @@ payload:
   - '+.ftp2.de.debian.org'
   - 'ftp.apache.org'
   - 'static.adtidy.org'
+  - 'd.myani.org'
   - 'ftp.gnome.org'
   - 'cdn.fwupd.org'
   - 'downloads.xiph.org'
