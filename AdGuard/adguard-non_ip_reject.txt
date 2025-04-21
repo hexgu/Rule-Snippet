@@ -46,7 +46,6 @@
 ||*.brightvpn.com^
 ||httpdns.bilivideo.com^
 ||*.amplitude.com^
-||*.amazonaws.com^
 ||*.taxility.com^
 ||*.proxyway.com^
 ||api-js.mixpanel.com^
