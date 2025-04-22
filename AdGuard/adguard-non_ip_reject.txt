@@ -82,6 +82,7 @@
 ||httpdns.volces.com^
 ||httpdns.n.shifen.com^
 ||*.moebgp.com^
+||log.mmstat.com^
 ||httpdns.kwd.inkuai.com^
 ||*.esgltc.com^
 ||httpdns.alicdn.com^

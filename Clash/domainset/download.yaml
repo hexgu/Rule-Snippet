@@ -757,6 +757,7 @@ payload:
   - 'codeload.github.com'
   - 'download.edovia.com'
   - 'updates.edovia.com'
+  - 'download.eassos.com'
   - 'download.docker.com'
   - '+.desktop.docker.com'
   - 'download.dlsite.com'
