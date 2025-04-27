@@ -78,11 +78,14 @@
 ||*.brdtest.com^
 ||httpdns.bcelive.com^
 ||httpdns.zybang.com^
+||resolver.mi.xiaomi.com^
 ||dns.wechat.com^
 ||httpdns.volces.com^
 ||httpdns.n.shifen.com^
 ||*.moebgp.com^
+||*.cnzz.mmstat.com^
 ||log.mmstat.com^
+||*.resolver.gslb.mi-idc.com^
 ||httpdns.kwd.inkuai.com^
 ||*.esgltc.com^
 ||httpdns.alicdn.com^
