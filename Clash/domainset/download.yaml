@@ -290,6 +290,7 @@ payload:
   - 'onepluscommunityserver.com'
   - 'mirrors.standaloneinstaller.com'
   - 'mirror.yannic-bonenberger.com'
+  - '+.dl.dropboxusercontent.com'
   - '+.digitaloceanspaces.com'
   - 'pkg-containers.githubusercontent.com'
   - 'objects.githubusercontent.com'
