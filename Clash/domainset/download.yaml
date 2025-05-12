@@ -5,6 +5,7 @@ payload:
   - '+.kali.download'
   - 'mirror.kumi.systems'
   - 'mirrors.gethosted.online'
+  - 'dl.thorium.rocks'
   - 'jing.rocks'
   - '+.repo.jing.rocks'
   - '+.cloud-object-storage.appdomain.cloud'
