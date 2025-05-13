@@ -251,6 +251,7 @@ payload:
   - 's5.maxstream.org'
   - 's4.maxstream.org'
   - 's1.maxstream.org'
+  - 'cdn.freesound.org'
   - 'cdn.fosstodon.org'
   - '+.doppiocdn.org'
   - '+.cdn.cookielaw.org'
