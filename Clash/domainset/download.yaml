@@ -926,7 +926,6 @@ payload:
   - 'apache.proserve.nl'
   - 'snt.utwente.nl'
   - 'ftp.snt.utwente.nl'
-  - 'ftp.tudelft.nl'
   - 'ftp.surfnet.nl'
   - 'apache.redkiwi.nl'
   - '+.mirror.nl'
