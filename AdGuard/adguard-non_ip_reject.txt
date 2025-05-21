@@ -185,6 +185,12 @@
 *dc.pimentaafricana*
 *-txtagstore*
 *thetollroads-*
+*-go.experian.com*
+*-adnow.com*
+*dkswshap-*
+*.srvqck*
+*.fstsrv*
+*.sagewwl*
 *_vmind.qqvideo.tc.qq.com*
 *-logging.nextmedia.com*
 *-spiky.clevertap-prod.com*
