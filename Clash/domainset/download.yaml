@@ -27,6 +27,8 @@ payload:
   - 'download.pixelexperience.org'
   - 'get.pixelexperience.org'
   - 'mirrors.linux-bulgaria.org'
+  - 'meta.prismlauncher.org'
+  - 'i18n.prismlauncher.org'
   - 'nobara-images.nobaraproject.org'
   - '+.mirrorservice.org'
   - 'registry.fedoraproject.org'
