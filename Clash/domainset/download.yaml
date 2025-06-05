@@ -679,6 +679,7 @@ payload:
   - '+.s3.ap-east-1.amazonaws.com'
   - '+.s3-1.amazonaws.com'
   - '+.s3.amazonaws.com'
+  - '+.allawnofs.com'
   - 'app-updates.agilebits.com'
   - 'cache.agilebits.com'
   - 'downloads.1password.com'
