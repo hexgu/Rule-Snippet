@@ -4,3 +4,6 @@ payload:
   - 'DOMAIN-REGEX,^ftp\.[\w.-][\w.-]\.debian\.org$'
   - 'DOMAIN-REGEX,^ftp\.[\w.-][\w.-]\.freebsd\.org$'
   - 'DOMAIN-REGEX,^[\w.-]*?\.s3\.[\w.-]*?\.backblazeb2\.com$'
+  - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.comaps\.app$'
+  - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.comaps\.tech$'
+  - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.organicmaps\.app$'
