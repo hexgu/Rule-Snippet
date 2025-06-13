@@ -581,6 +581,8 @@ payload:
   - '+.sftcdn.net'
   - '+.rspcdn.net'
   - '+.poecdn.net'
+  - 'maptile.osmand.net'
+  - 'data.osmand.net'
   - 'attachments.office.net'
   - '+.nel.measure.office.net'
   - 'support.content.office.net'
