@@ -56,6 +56,7 @@
 ||httpdns.baidubce.com^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
+||*.httpdns.aliyuncs.com^
 ||*.adincube.com^
 ||httpdns.danuoyi.tbcache.com^
 ||*.svd-cdn.com^

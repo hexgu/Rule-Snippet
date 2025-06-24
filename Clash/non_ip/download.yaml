@@ -1,9 +1,9 @@
 payload:
   - 'DOMAIN,th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe'
   - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.comaps\.tech$'
-  - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.organicmaps\.app$'
-  - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.comaps\.app$'
   - 'DOMAIN-REGEX,^ftp\.[\w.-][\w.-]\.freebsd\.org$'
   - 'DOMAIN-REGEX,^ftp\.[\w.-][\w.-]\.debian\.org$'
   - 'DOMAIN-REGEX,^[\w.-]*?\.s3\.[\w.-]*?\.backblazeb2\.com$'
   - 'DOMAIN-REGEX,^download[\w.-]*?\.mediafire\.com$'
+  - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.organicmaps\.app$'
+  - 'DOMAIN-REGEX,^cdn-[\w.-]*?\.comaps\.app$'
