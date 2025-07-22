@@ -850,6 +850,7 @@ payload:
   - 'su.virtualbuddy.app'
   - 'cdn.organicmaps.app'
   - 'updates.istatmenus.app'
+  - 'dl.vanadium.app'
   - 'builds.parsec.app'
   - 'dl.motrix.app'
   - 'meta.omaps.app'
