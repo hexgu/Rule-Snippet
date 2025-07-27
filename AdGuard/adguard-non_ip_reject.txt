@@ -233,8 +233,11 @@
 *trkhinv.business.hsbc.*
 *trkcmb.business.hsbc.*
 *-analytics-events.apple.com*
+*-ads.realmemobile.com*
 *-ad.video.yximgs.com*
+*-ad.a.yximgs.com*
 *-ad.sm.cn*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-normal.zijieapi.com*
+*pangolin-sdk-toutiao*

@@ -5,6 +5,8 @@
 ||*.onethingpcs.com^
 ||*.tianwenca.com^
 ||*.pkoplink.com^
+||qn-cdnfile1pcdn.msstatic.com^
+||livewebbs2pcdn.msstatic.com^
 ||*.kuiniuca.com^
 ||*.yfcloud.com^
 ||*.saxysec.com^
@@ -22,3 +24,5 @@
 ||*.mcdn.bilivideo.cn^
 ||*.p2perrorlog.douyucdn.cn^
 ||*.p2plog.douyucdn.cn^
+*-p2p.pull.yximgs.com*
+*-p2p-v2.pull.yximgs.com*
