@@ -65,6 +65,8 @@
 ||*.httpdns.n.netease.com^
 ||*.classify-client.services.mozilla.com^
 ||*.minexmr.com^
+||httpdnsmultiapivip.meituan.com^
+||httpdnsmultiapi.meituan.com^
 ||httpdnsvip.meituan.com^
 ||httpdns.meituan.com^
 ||*.luxxeeu.com^
@@ -83,6 +85,7 @@
 ||dns.wechat.com^
 ||httpdns.volces.com^
 ||httpdns.n.shifen.com^
+||*.httpdns.qcloud.com^
 ||*.moebgp.com^
 ||*.cnzz.mmstat.com^
 ||log.mmstat.com^
@@ -245,6 +248,7 @@
 *-business.vodafone.com*
 *-ss.checkoutera.com*
 *wxsnsdy*
+*-fin.meituan.com*
 *adwords*
 *-tracker.biliapi.net*
 *-ad.ixigua.com*
